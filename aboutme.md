@@ -4,7 +4,7 @@ title: Who Are We
 subtitle: Museums For All 
 ---
 
-![logo2](/img/logo2.png)
+![logo3](/img/logo3.png)
 
 
 

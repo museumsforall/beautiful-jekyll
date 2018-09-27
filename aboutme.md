@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Who Are We 
-subtitle: Who are we 
+subtitle: Museums For All 
 ---
 
 ![logo](/img/logo.jpg)
 
-### Museums For All 
+
 
 

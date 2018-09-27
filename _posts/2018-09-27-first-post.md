@@ -9,12 +9,12 @@ This team contract describes how we operate as a team. It addresses expectations
 
 1.	**Preliminary Information.** Each member of the group has varying schedules and work load throughout the semester. We will communicate our obligations and availability via group chat (not Slack). 
 2.	**Guiding Principles.** The following principles are descriptions and behaviors and attitudes each member must respect and live by for the group to be successful: 
-a.	Always Communicate – always respond to the group chat, even it is to say “Sorry I am busy and can’t talk now” 
-b.	Be flexible and open about rescheduling 
-c.	Don’t procrastinate 
-d.	Come to meetings prepared 
-e.	Be supportive of each other 
-f.	If work can’t be completed, communicate with group – work out a solution 
+...a.	Always Communicate – always respond to the group chat, even it is to say “Sorry I am busy and can’t talk now”..
+...b.	Be flexible and open about rescheduling..
+...c.	Don’t procrastinate..
+...d.	Come to meetings prepared.. 
+...e.	Be supportive of each other.. 
+...f.	If work can’t be completed, communicate with group – work out a solution.. 
 3.	**Preliminary focus on purpose.** The overall purpose of our group is to create a project we are proud of and in line with the scope of the project assignment. We are here to learn and practice skills but also want to have fun in the process. 
 4.	**Group Roles/Dividing Up Work.** There is no hierarchy or assigned roles. All assignments will be evenly divided by amount of effort. 
 5.	**Dividing up the task.** Tasks will be divided by skill and time. Everyone will be given an equal amount of work. We will try to play to people’s strengths and accommodate people’s needs/schedules depending on the week. 

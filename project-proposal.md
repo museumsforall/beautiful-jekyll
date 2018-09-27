@@ -3,9 +3,9 @@ Interacting with a museum can sometimes be rather two-dimensional: you walk, you
 We've often thought that it's hard to be in a museum if you're "not in the mood," that is, if you aren't feeling deeply focused and 
 if you aren't prepared to spend hours walking and looking on in an almost tense silence, touching nothing, moving slowly, etc.
 In this way, we feel that museums can discourage engagement and over-value a studious silence. They sometimes enforce hands-off observation that can be just as draining as it can be intellectually engaging. Consider also the particular cases of:
-a) children, who may especially struggle to follow these standards of behavior
-b) the visually-impaired, who deserve an alternative entrypoint into the museum, which is primarily a visual experience
-c) those who feel intimidated by the act of engaging with art; your people who "don't get it," where "it" is actually the intellectual point of inaccessibility.
+* a) children, who may especially struggle to follow these standards of behavior
+* b) the visually-impaired, who deserve an alternative entrypoint into the museum, which is primarily a visual experience
+* c) those who feel intimidated by the act of engaging with art; your people who "don't get it," where "it" is actually the intellectual point of inaccessibility.
 
 So our question is, **how do we make the museum more accessible?** How do we provide alternative points of engagement for those who the museum may not be necessarily built for? How do we add dimension to the experience of being a museum visitor?
 

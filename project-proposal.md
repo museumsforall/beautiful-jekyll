@@ -1,28 +1,23 @@
 ### The Problem
-When you go to the park, you can expect to walk around, play frisbee, or sit down on a bench. You can interact physically with 
-the space of the park in many different ways. If you do an escape room, you can expect to pick up objects, dig around the room 
-for clues, and engage your problem-solving skills to win.
-
 Interacting with a museum can sometimes be rather two-dimensional: you walk, you observe, you meander along a predictable path. 
-I've often thought that it's hard to be in a museum if you're "not in the mood," that is, if you aren't feeling deeply focused and 
+We've often thought that it's hard to be in a museum if you're "not in the mood," that is, if you aren't feeling deeply focused and 
 if you aren't prepared to spend hours walking and looking on in an almost tense silence, touching nothing, moving slowly, etc.
-In this way, I feel that museums can discourage engagement and over-value a studious silence. They sometimes enforce hands-off observation that can be just as draining as it can be intellectually engaging.
+In this way, I feel that museums can discourage engagement and over-value a studious silence. They sometimes enforce hands-off observation that can be just as draining as it can be intellectually engaging. Consider also the particular cases of:
+a) children, who may especially struggle to follow these standards of behavior
+b) the visually-impaired, who deserve an alternative entrypoint into the museum, which is primarily a visual experience
+c) those who feel intimidated by the act of engaging with art; your people who "don't get it," where "it" is actually the intellectual point of inaccessibility.
 
-So my question is, how do we 
-add dimension to the experience of being a museum visitor? How can we allow people to take action? How can we give visitors a 
-sense of agency that goes beyond choosing a walking route through the museum? How do we make space for feelings of discovery, 
-agency, and creativity? How do we use our bodies to make a trip to the museum become an interactive, material, 
-physical experience-- allowing us to complement the materiality invoked by the works and heighten our overall experience? How 
-can we make the museum something more like an escape room or choose-your-own-adventure game, something that invites you to 
-interact with intention and curiosity?
+So our question is, **how do we make the museum more accessible?** How do we provide alternative points of engagement for those who the museum may not be necessarily built for? How do we add dimension to the experience of being a museum visitor?
 
-![Please Do Not Touch](https://c1.staticflickr.com/2/1439/4733029692_5ca8179d9d_b.jpg)
-[Image by Thomas Hawk via Flickr](https://www.flickr.com/photos/thomashawk/4733029692)
+![Accessibility in the British Museum](https://c1.staticflickr.com/9/8473/8078201695_57393230bb_b.jpg)
+[Image by Brian Suda via Flickr](https://www.flickr.com/photos/suda/8078201695)
 
-### Going Deeper
+### Going Deeper: Museums For All
 Museums (and artists) are already doing a lot to add dimension to our experiences. Artists add auditory dimension to 
 their works, which museums facilitate with speaker installations. Museums occasionally let you touch things or provide 
 playrooms and creativity labs for you to get hands-on. People have also created scavenger hunts and guided 
-tours to encourage interaction with exhibits. I particularly like the concept of a scavenger hunt because this gamifies your trip to the museum and engages your pathfinding, clue-solving, and creative capacities.
+tours to encourage interaction with exhibits.
 
-I envision a mobile game, something like an escape room, which allows you to enter an exhibit and scan different artworks or artifacts in the museum, each one triggering new challenges, puzzles, or narrative vignettes for you to experience. These would both gamify your experience in the museum, allowing you to interact beyond observing at a distance. They would also provide additional content to contextualize the exhibit and works. After all, the "story" that you get from how an exhibit is arranged and what the informational plaques read is not final-- an implementation such as this could add both nuance and structure to the narrative experience of an exhibit.
+These innovations engage people through multiple senses and brain faculties. They allow visitors to participate in activities and use their brains toward creativity and problem-solving. They also provide auditory texture which is particularly important for the visually-impaired.
+
+We suspect that gamifying a trip to the museum somehow could do a lot to engage children and those who don't consider themselves to be people who "know" how to interact with art. We also think that being consistent about involving multiple senses, especially hearing, in our designs can help us make sure the visually-impaired can have a richer experience in the museum

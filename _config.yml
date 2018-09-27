@@ -24,6 +24,7 @@ description: Designing museums for accessibility
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
+  Project Proposal: "project-proposal"
   Authors:
     - Jamie Kasulis: "http://jamiekasulis.github.io"
     - Elvira Alonso: "http://elvira-alonso.github.io"

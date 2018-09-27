@@ -24,7 +24,7 @@ description: Designing museums for accessibility
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
-  Authorss:
+  Authors:
     - Jamie Kasulis: "http://jamiekasulis.github.io"
     - Elvira Alonso: "http://elvira-alonso.github.io"
     - Dana Chung: "http://danachung3.github.io"

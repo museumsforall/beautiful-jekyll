@@ -5,33 +5,33 @@ title: Contextual Inquiry Review
 
 ## Key Findings
 
-### Contextual Inquiry and Interview Results** 
-_Williams College Student (contextual inquiry) 1_
+### Contextual Inquiry and Interview Results
+**Contextual Inquiry 1: Williams College Student**
 We conducted a contextual inquiry with a Williams College student at WCMA. The student has no expertise in art or art museums and does not consider herself "an art person." We explained that we were in the data collection phase of a design project and that we were interested in the theme of "museums for all," but we stressed that we were not at a point where we were being concrete about what that meant. The contextual inquiry went really well in that the interviewee was very willing to share her thoughts and opinions throughout the hour-long session, and she provided us with a lot of emotional data. She frequently told us how she was feeling and what had caused her to feel that way. It was from this contextual inquiry that we got a strong sense that museums may not be accessible to people of color for a number of reasons, and we were also able to gather concrete data that illustrated the nature of the discomfort that is resultant of this inaccessibility as well as specific points of criticism to how the museum was representing people of color and people of color issues.
 
-_WCMA Staff (interview) 1_  
+**Interview 1: WCMA Staff**
 We conducted an interview with a curator from WCMA at WCMA. She has extensive background in the incorporation of art into the classroom, specifically helping students and professors engage with artwork in museums. We conducted a semi-structured interview, having brought a list of preliminary questions for her. As the conversation unfolded, we asked other questions pertaining to the matter of making museums more accessible for people without revealing that our focus is people of color. She herself stated that museums are not “open for all” and that this is a conversation that should be taking place in museums. Moreover, Asking her questions about her background and observations in museums is extremely helpful for our project since she revealed information that may not be obvious to museum visitors and us, the interviewers. She helped shed a light on new perspectives since WCMA staff are the ones who interact with museum visitors the most (besides art). She was really open to not only talk about herself but also her mother who was a curator at LACMA. Her initiatives to foster discussions about art and redefining who museums should target has given us another puzzle piece to work with. 
 
-_WCMA Staff (interview) 2_
+**Interview 2: WCMA Staff**
 We conducted a semi-structured interview with another WCMA staff person as well. Her work involves public, student, and academic/faculty engagement with the museum as well as interpretation. Here, _interpretation_ refers to the design of exhibits with a sensitivity toward the story the museum is trying to tell and a critical lens on the way they tell it. We began the interview by asking her about her role at the museum and how it has changed overtime. We then transitioned to a conversation focused on accessibility in museums in general, not revealing that our focus was on accessibility for people of color. Our interviewee shared a lot of insight with us about accessibility issues in museums in general. She highlighted those with hearing, seeing, or mobility impairments and also addressed the issue of intellectual/academic inaccessibility. She also considered the interpretation of exhibits to be an important area of (in)accessibility which the museum designs iteratively for. That is, she described a process of tweaking museum spaces based on feedback gathered explicitly, observations of visitors by staff, and other methods of evaluation. This interview was very helpful just in getting a sense of the methods of data collection, iterative design, and evaluation WCMA employs. The interviewee was also able to share with us how WCMA goes about fostering discussion and addressing community feedback.
 
 ## Building An Affinity
 
 ![affinity](/img/affinity.JPG)
 
-_High Level Themes_
+**High Level Themes**
   * A need for accountability that has resulted from social distrust of museums 
   * Museums, specifically labels and audio recordings need clearer explanations 
   * Users are categorizing museums as uncomfortable spaces, so there is a need to make museums more comfortable for users
   * People are more likely to engage with art if there is a sense of familiarity present 
   * People are also more likely to engage with art if there is a compelling ambiance 
 
-_Do these themes, problems, and practices suggest tasks important to design for?_
+**Do these themes, problems, and practices suggest tasks important to design for?**
 
 Yes, from the affinity diagram we can see that the tasks important for our design include:
   * Figuring out ways museums can better utilize their space
 
-_Process for identifying these themes_
+**Process for identifying these themes**
 
 Creating an infinity diagram was no simple task. We first began by looking back at the data we collected from our contextual inquiries and interviews. We only used two different color post it notes for this affinity diagram. We did not want to categorize data based on the different people we interviewed; instead we took a holistic approach. We started off by writing comments and observations from the data we collected. We then began to match the pile of post it notes by lining them up in a row. We then collectively named each row. 
 

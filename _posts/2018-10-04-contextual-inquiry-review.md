@@ -4,6 +4,7 @@ title: Contextual Inquiry Review
 ---
 
 ## Key Findings
+We had originally set out knowing that we wanted to make museums more accessible, but we weren't sure how or for whom. After gathering data, we have found that there is much to be asked about how museums can be more accessible for _people of color_. After two contextual inquiries with Williams College students and two interviews with WCMA staff members, we have been able to identify a strong need for museums to center people of color and their narratives, as well as several examples of how museums (and WCMA) have grappled with issues of accessibility in the past. Our data shows a sense of distrust that students of color may have in museums generally, as well as the ways in which museums today are working to foster discussion and incorporate community feedback.
 
 ### Contextual Inquiry and Interview Results
 **Contextual Inquiry 1: Williams College Student**

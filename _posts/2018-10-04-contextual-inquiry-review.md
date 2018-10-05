@@ -70,6 +70,6 @@ What are the time constraints on the tasks?
 There is no general time constraint on the tasks. Visitors who go to WCMA and spend time at exhibits go at their leisure and spend as much time with art as they would like. However as mentioned before, the time spent with each exhibit can depend significantly on their ability to relate to the gallery. 
 
 **What happens when things go wrong?**
-In our design, when things go wrong and users are unable to share or communicate their feelings or interpretations, users should be able to report it to the project designers. As curators of this forum for discussion, the designers will ensure that conversations and content is accessible to all potential users and all users can contribute appropriate material. 
+In our design, when things go wrong and users are unable to share or communicate their feelings or interpretations, users should be able to report it to the project designers. As curators of a potential forum for discussion, the designers will ensure that conversations and content is accessible to all potential users and all users can contribute appropriate material. 
 
 

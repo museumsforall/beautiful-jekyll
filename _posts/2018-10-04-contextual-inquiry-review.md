@@ -58,4 +58,18 @@ The museum itself is an important space as this is where people see the art in p
 **What is the relationship between the person and data?**
 Our design is meant to provide an alternative or supplementary mode of engagement for people of color that directly centers PoC subjectivities in the museum. Therefore, we want users to be able to access conversations, critiques, or supplementary info that does this. In this way, the data is communal; users are meant to know that other people care about this content and want to share it.
 
+**What other tools does the person have?**
+At the moment, other than talking face to face with other people or visiting museum run discussions, users seem to not have many other tools to communicate reactions, feelings and conversations of discomfort. 
+How do people communicate with each other?
+In our design, people communicate with each other by commenting and expressing their opinions and feelings of discomfort in a setting that is accessible by all users at all times. 
+
+
+**How often are the tasks performed?**
+These tasks can be completed as often as users visit the museum. 
+What are the time constraints on the tasks?
+There is no general time constraint on the tasks. Visitors who go to WCMA and spend time at exhibits go at their leisure and spend as much time with art as they would like. However as mentioned before, the time spent with each exhibit can depend significantly on their ability to relate to the gallery. 
+
+**What happens when things go wrong?**
+In our design, when things go wrong and users are unable to share or communicate their feelings or interpretations, users should be able to report it to the project designers. As curators of this forum for discussion, the designers will ensure that conversations and content is accessible to all potential users and all users can contribute appropriate material. 
+
 

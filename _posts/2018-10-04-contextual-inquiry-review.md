@@ -33,8 +33,10 @@ We conducted a semi-structured interview with another WCMA staff person as well.
 **Do these themes, problems, and practices suggest tasks important to design for?**
 
 Yes, from the affinity diagram we can see that the tasks important for our design include:
-  * Figuring out ways museums can better utilize their space
-
+  * Centering the narratives of people of color / challenging the privileging of dominant voices
+  * Figuring out how museum spaces can be more comfortable and less overwhelming, while also making them more compelling
+  * Helping users feel connected to artworks, especially when they do not identify as "art people"
+  
 **Process for identifying these themes**
 
 Creating an infinity diagram was no simple task. We first began by looking back at the data we collected from our contextual inquiries and interviews. We only used two different color post it notes for this affinity diagram. We did not want to categorize data based on the different people we interviewed; instead we took a holistic approach. We started off by writing comments and observations from the data we collected. We then began to match the pile of post it notes by lining them up in a row. We then collectively named each row. 

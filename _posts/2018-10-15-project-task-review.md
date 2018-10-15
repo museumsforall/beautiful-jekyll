@@ -11,10 +11,10 @@ title: Contextual Inquiry Review
 
 ## Potential New Tasks
 
-## Hard: sharing discussions happening at WCMA for the wider community/those outside of the museum space (at all times?, immediate?, prevent postponing?) Jamie
+### Hard: sharing discussions happening at WCMA for the wider community/those outside of the museum space (at all times?, immediate?, prevent postponing?) Jamie
 
-## Hard: making the dialogue between museum staff/representatives and visitors easier to access  Dana  
+### Hard: making the dialogue between museum staff/representatives and visitors easier to access  Dana  
 
-## Hard: making/sharing/reading alternative interpretations of exhibits/works that specifically address expressions of power, discomfort, and marginalization in museums Elvira
+### Hard: making/sharing/reading alternative interpretations of exhibits/works that specifically address expressions of power, discomfort, and marginalization in museums Elvira
 
 

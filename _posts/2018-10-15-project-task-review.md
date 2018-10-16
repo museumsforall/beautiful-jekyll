@@ -3,7 +3,8 @@ layout: post
 title: Project Task Review 
 ---
 ## Existing Tasks  
-**Easy: WCMA holds special discussion space events at WCMA for community members to join, sometimes facilitated by WCMA staff and sometimes facilitated by invited guests.**  
+**Easy: WCMA holds special discussions at WCMA for community members to join.**
+Cristina is a resident of Williamstown who was really intrigued by an exhibit she visited in WCMA. She felt she could personally relate to some of the subject matter and she's now curious about what others have to say about the exhibit. She heard about a discussion facilitated by WCMA that was being held in the museum on a Wednesday night and decides to go to hear what others have to say and contribute her thoughts.
 
 **Easy: Conversations between WCMA staff/representatives and visitors about exhibits through fly-on-the-wall observations, formal solicitations of feedback, and ..Dana  (make more specific)**
 
@@ -13,7 +14,8 @@ Anna is a young adult and a lover of contemporary art. Her local museum recently
 
 ## Potential New Tasks
 
-**Hard: sharing discussions happening at WCMA for the wider community/those outside of the museum space (at all times?, immediate?, prevent postponing?) Jamie**
+**Hard: Sharing discussions happening at WCMA for the wider community and inviting people to participate as they experience an exhibit**
+Claudia is a Williams College student visiting WCMA. As she is walking around an exhibit, she can't help but have a critical lens on how the gallery is arranged and wonder about what conversations were happening as the space was designed. She is itching to talk about it with someone and to hear what thoughts were being considered in the creation of the exhibit as well as how other people have received it. She is in fact unaware that WCMA held a discussion about it two nights ago, but something is implemented in the exhibit that allows her to view some of the discussion that happened and participate in ongoing conversations about the exhibit, *while* she is there.
 
 **Hard: making the dialogue between museum staff/representatives and visitors easier to access  Dana**
 

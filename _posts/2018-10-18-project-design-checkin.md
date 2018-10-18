@@ -24,7 +24,7 @@ outside of galleries, people can use the installation to share their thoughts/co
   * New Task #2: making the dialogue between museum staff/representatives and visitors easier to access
   * Old Task: whatever you want
   
- ![design2](/img/[Untitled].pdf)
+ ![design2](/img/museum_installation.jpg)
  
  WILL ADD TEXT LATER!!! (AND MORE DESCRIPTIONS)
 

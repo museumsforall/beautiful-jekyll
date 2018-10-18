@@ -23,6 +23,10 @@ outside of galleries, people can use the installation to share their thoughts/co
   * New Task #1: sharing discussions happening at WCMA
   * New Task #2: making the dialogue between museum staff/representatives and visitors easier to access
   * Old Task: whatever you want
+  
+ ![design2](/img/[Untitled].pdf)
+ 
+ WILL ADD TEXT LATER!!! (AND MORE DESCRIPTIONS)
 
 ### Headset and Device
 Headset provides more context and information about the exhibits/artists, almost like a guided tour, but users have the option to choose a topic to hear more about. Also describes some of the discussion going on at WCMA/in the community relating to the exhibit. OR Device gives them different options of what they want to listen to. They can also submit their thoughts through the device. They can also hear what comments others have made about the exhibit.

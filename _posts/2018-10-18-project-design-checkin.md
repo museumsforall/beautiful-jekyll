@@ -8,4 +8,4 @@ title: Project Design Check-In
 
 **Museum Installation**
 
-**Headset and Device **
+**Headset and Device**

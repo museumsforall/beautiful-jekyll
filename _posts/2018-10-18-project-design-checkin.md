@@ -29,8 +29,3 @@ Headset provides more context and information about the exhibits/artists, almost
 
 ![design3](/img/img003.jpg)
 
-  * New Task #3: making/sharing/reading alternative interpretations
-  * New Task #1: sharing discussions happening at WCMA
-  * New Task #2: making the dialogue between museum staff/representatives and visitors easier to access
-  * Old Task: whatever you want
-

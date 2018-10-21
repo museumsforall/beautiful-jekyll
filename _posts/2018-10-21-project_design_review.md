@@ -1,9 +1,0 @@
----
-layout: post
-title: Project Design Review 
----
-From our design sketches, we decided to implement a museum installation to make exhibits more accessible for visitors and to facilitate conversations about art. We chose this design to maximize visitor participation and usability. People may be less likely to participate if it requires extra effort such as downloading an app. This design is a unique, quick and immediate way for visitors to interact with the museum. Having a device installed in the museum allows museum curators to display specific prompts and/or free discussion that will provoke discussion around a specific set of topics. This design is well suited for our target visitors because the museum installation is an easy way to learn about other people’s opinions, share opinions and communicate with both WCMA staff members and other visitors. This design will facilitate topics of discussion, controversy and POC-related topics. 
-
-These tasks are more compelling than others because we are solving problems that repeatedly came up in our contextual inquiries. Our design will allow visitors to extend previously existing tasks. Visitors already create alternative interpretations and criticism and our design allows for sharing of these interpretations and criticisms. Most of these discussions already take place at WCMA but there is no way for visitors to immediately read or contribute ideas at all times.
-
-One criticism we had early in our design process was that our project would put a burden on specific groups of visitors, i.e. people of color. We accounted for this by making the museum installation accessible to everyone, anonymous and very optional. We believe that people who will use this installation will be motivated to share their thoughts only if they want to therefore not feeling burdened. 

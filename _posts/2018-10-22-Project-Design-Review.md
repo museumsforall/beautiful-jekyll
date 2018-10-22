@@ -11,9 +11,11 @@ One criticism we had early in our design process was that our project would put 
 
 ### Task 1: Creating alternative interpretations and critiques
 In this scenario, a museum visitor comes across a painting he finds problematic. He wonders if other people, too find this painting problematic, for he does not know what to make out of it. Luckily, WCMA has the m∀se installation where one can share alternative interpretations. 
+
 ![StoryBoard1](/img/elvira_storyboard.jpg)
 
 
 ### Task 2: Reading alternative interpretations, critiques, and ongoing discussions
 Here, we have a museum visitor who wants to know more about what other people have to say about the painting she is currently viewing. She comes across an interpreation she never considered through the m∀se installation at WCMA. She continues reading more comments and feels that her interpretations and feelings have been validated. 
+
 ![StoryBoard2](/img/storyboard1.jpg)

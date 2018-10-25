@@ -15,7 +15,7 @@ We learned that WCMA is working to specifically address this problem by facilita
 Thus, our proposed solution is an interactive museum installation that solicits discussion and opinions from visitors while they are in the museum. We want the installation to not only provide concerned visitors with a platform to have their voices heard, but to also archive and display these discussion points in the museum. The goal is for the discussion to happen immediately, and for people's voices to not disappear into the void and instead be heard by the community and centered in the museum experience.
 
 ### Design Research Goals, Stakeholders, and Participants (Jamie)
-We conducted two contextual inquiries and three semi-structured interviews for our research. We had no particular selection criteria for our contextual inquiry subjects except that they must not be individuals we know, that being defined as individuals who any of us have had a meal with, and not be identified as "art people." We did this with the hope that our data would reflect the experiences of those for whom the museum might be intellectually inaccessible. Our contextual inquiry subjects, whose names will remain redacted, happened to be people of color. Our three interviewees were all WCMA staff members who hold different titles and perform different roles in the museum.
+We conducted two contextual inquiries and three semi-structured interviews for our [research](https://museumsforall.github.io/2018-10-04-contextual-inquiry-review/). We had no particular selection criteria for our contextual inquiry subjects except that they must not be individuals we know, that being defined as individuals who any of us have had a meal with, and not be identified as "art people." We did this with the hope that our data would reflect the experiences of those for whom the museum might be intellectually inaccessible. Our contextual inquiry subjects, whose names will remain redacted, happened to be people of color. Our three interviewees were all WCMA staff members who hold different titles and perform different roles in the museum.
 
 During our contextual inquiries, we asked about what the subjects were feeling, how they moved through the museum space, and how they go about emotionally, intellectually, and physically engaging with the museum and its objects. Our subjects were both Williams College students and people of color. During our interviews, we asked about our subjects' roles in the museum, where WCMA could be more accessible, and then specifically on the matter of designing museums to be more accessible for people of color. One interviewee went deep into the issue of museum inaccessibility for people of color without being pushed in this direction. Other circumstantial questions were also asked based on how each conversation unfolded.
 
@@ -40,3 +40,7 @@ Though our design is primarily for people of color, we are trying to make the mu
 
 
 (Put our storyboard here)
+
+
+#### Appendix
+1. [Our research review](https://museumsforall.github.io/2018-10-04-contextual-inquiry-review/)

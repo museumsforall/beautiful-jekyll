@@ -42,5 +42,5 @@ Though our design is primarily for people of color, we are trying to make the mu
 (Put our storyboard here)
 
 
-#### Appendix
-1. [Our research review](https://museumsforall.github.io/2018-10-04-contextual-inquiry-review/)
+#### An Important Note
+There are many different and compounding dimensions of privilege, dimension, and marginalization. Our group has chosen to design museums to be more accessible for people of color specifically. This acknowledges a race-based subjectivity that we hope to center. Still, we acknowledge that for any person, many "isms" may come into play-- racism, heterosexism, ableism, and more. Rather than try to make an ineffective one-size-fits-all solution to these issues, we narrowed our focus based on what was most salient during our research. However, we do hope to at the very least make our design accessible to those with visual impairments, as it is an ethical concern of ours that our technology may not be physically usable to some. We envision our design being able to provide auto-narration of discussion posts so that users who cannot see the text can hear it.

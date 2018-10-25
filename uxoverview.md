@@ -13,16 +13,16 @@
 ### Design Research Goals, Stakeholders, and Participants (Jamie)
 
 
-### Design Research Results and Themes (Dana)
+### Design Research Results and Themes (Elvira)
 
 
-### Answers to Task Analysis Questions (Dana)
+### Answers to Task Analysis Questions (Elvira)
 
 
-### Proposed Design Sketches - “3x4” (Elvira)
+### Proposed Design Sketches - “3x4” (Dana)
 
 
-### Written Scenarios - “1x2” (Elvira)
+### Written Scenarios - “1x2” (Dana)
 
 
 (Put our storyboard here)

@@ -35,15 +35,17 @@ Though our design is primarily for people of color, we are trying to make the mu
 We expect these tasks to be performed in museum spaces, where people can interact with art. We also know that discussions can happen outside of museum spaces. People can learn how to complete these tasks through various ways, some of them being their interactions with other museum visitors and exposure to art they can engage with. As of now, people are able to communicate with other museums visitors but we are lacking other tools for expressing how art makes us feel. Our design will enable users to express their opinions and feelings of discomfort more easily which will also be accessible to others. These tasks are meant to be performed while a user is at a museum. If things go wrong in our design, users will resort to the original form of engaging with art and communication. Feedback from users will greatly help if our design fails to accomplish these tasks. 
 
 
-### Proposed Design Sketches - “3x4” (Dana)
+### Proposed Design Sketches - “3x4”
 
 We designed three different design sketches. The first design we came up with was a mobile app. We envisioned the app as a great way to get both visitors and WCMA staff involved and contributing to discussion relating to museums and exhibitions. We learned from our research that WCMA already holds many discussions regarding issues of cultural appropriation and other concerns. However, not many people are not able to actively contribute. This design supports the following two tasks: 1) Support visitors in creating alternative interpretations and critiques of the exhibits during their visit, 2) Facilitating conversations between WCMA staff/representatives and visitors about exhibits,
 
 ![design1](/img/mobile_app_design.jpg)
+Figure 2: Design sketch of a mobile app.  
 
 The second design we came up with was a special headset and device. In this design, a wireless headset in addition to a handheld device similar to a tablet provides context and information about a particular piece of art that visitors are viewing. Visitors are in control of what they want to see and information they want to hear. In addition to listening to curated content, users are able to submit their thoughts via the handheld device. This device can facilitate discussions between museum staff and visitors by being a platform for visitors to share personal thoughts about art. This design supports the following two tasks: 1) Facilitating conversations between WCMA staff/representatives and visitors about exhibits, 2) Support visitors in creating alternative interpretations and critiques of the exhibits during their visit 
 
 ![design3](/img/img003.jpg)
+Figure 3: Design sketch for special headset and device
 
 The final design we came up with and ended up choosing for our project is a museum installation. This museum installation is an electronic device that is located in front of pieces of art. We envision this installation to support our new tasks and pre-exiting task that visitors create alternative interpretations and criticisms. This installation allows for sharing of discussions happening at WCMA as visitors can read and share comments and discussions based on prompts or topics. Both museum staff and visitors can create prompts/discussions on difficult topics and controversy that will support the following two tasks: 1) Facilitating conversations between WCMA staff/representatives and visitors about exhibits, 2) Support visitors in creating alternative interpretations and critiques of the exhibits during their visit.
 
@@ -54,10 +56,11 @@ Another important aspect of this design is that we do not want users' comments t
 We learned from our research that many people feel museums are inaccessible because of their lack of understanding and conversations about art. We chose this design because a museum installation will help facilitate further widespread conversations and discussions. As opposed to a mobile app that requires visitors to go through extra effort to download, a museum installation supports the user tasks without putting extra burden on the user while maximizing participation and usability.  We decided to pursue the following two existing tasks: 1) Conversations between WCMA staff/representatives and visitors about exhibits 2) Visitors create alternative interpretations and critique exhibits during their visit. We are also pursuing the following tasks that will be enabled by our design: 3) Facilitating conversations and making dialogue between WCMA staff/representatives and visitors about exhibits easier to access 4) Support visitors in making/sharing/reading/creating alternative interpretations and critiques of the exhibits that specifically address difficult and controversial topics 
 
  ![design2](/img/museum_installation.jpg) 
+ Figure 4: Design sketch for museum installation
 
 Further details about our proposed design sketches can be found [here](https://museumsforall.github.io/2018-10-18-project-design-checkin/).
 
-### Written Scenarios - “1x2” (Dana)
+### Written Scenarios - “1x2”
 
 
 Task 1: Creating alternative interpretations and Critiques
@@ -65,13 +68,14 @@ Task 1: Creating alternative interpretations and Critiques
 In this scenario, Lisa, a museum visitor comes across a painting she finds problematic. She wonders if other people also find this painting problematic and worrisome. As she looks longer at the art, she realizes that although it is problematic, it should be included in the installation because it represents history. As she makes this conclusion, she views the museum installation and decides she wants to share her thoughts. Lisa then goes to the installation and notices that there is an existing discussion already there about the history of the painting. She reads the comments, realizes that other people agree and disagree with her. She types up her response and submits it. She is glad the museum is facilitating these discussions. These discussions are needed for others to understand art and the museum kiosk is an effective way to share her opinion. 
 
 ![StoryBoard1](/img/elvira_storyboard.jpg)
+Figure 5: Storyboard of a user creating alternative interpretations and critiques.
 
 Task 2: Reading alternative interpretations, critiques and ongoing discussions 
-
 
 In this scenario, Alex, a museum visitor comes across a painting she finds problematic. Oftentimes she dislikes going to museums because she feels she can never fully understand art because she can’t share her opinions or know other people’s opinions. When viewing the painting, she notices the museum kiosk and starts to read comments left by WCMA staff members and other visitors. She enjoys reading the comments because they are bringing up points that she had not thought of previously. She then forms her own opinions on the art, realizes that other people agree with her. She also leaves a comment and leaves the exhibit feeling more comfortable because she feels like she can understand and discuss the art at a deeper level. 
 
 ![StoryBoard2](/img/storyboard1.jpg)
+Figure 6: Storyboard of reading alternative interpretations, critiques and ongoing discussions.
 
 Further details about our scenarios and storyboard can be found [here](https://museumsforall.github.io/2018-10-22-Project-Design-Review/).
 

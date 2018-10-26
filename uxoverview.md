@@ -16,6 +16,7 @@ Thus, our proposed solution is essentially a discussion platform installed into 
 
 
 ![museum](/img/museum.png)
+
 Figure 1: [WCMA Discussion - Reading Room](https://wcma.williams.edu/reading-room/)   
 
 ### Design Research Goals, Stakeholders, and Participants

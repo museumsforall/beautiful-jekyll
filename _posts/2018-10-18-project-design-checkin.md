@@ -8,7 +8,7 @@ All of our designs attempt to implement our three new tasks:
 * Sharing discussions happening at WCMA
 * Making the dialogue between museum staff and visitors easier to access.
 In addition, each of these designs also incorporates one or more existing tasks in a unique way.
-[Tasks] https://museumsforall.github.io/2018-10-15-project-task-review/
+[Tasks](https://museumsforall.github.io/2018-10-15-project-task-review/)
 
 ### Mobile App
 We see the mobile app interface as a great way to get people involved in more long-form discussion relating to the museum and its exhibitions. It's important to us that the app allows people to jump into conversation quickly and to read others' comments without being weighed down too much in menus. We also envision WCMA staff having a presence on the app and using it as an advertising space for upcoming WCMA events. We learned from our research that WCMA holds many discussions with professional facilitators that allow community members to respond to the exhibitions, and recently, this space was used to address issues of cultural appropriation and other concerns. However, we also learned from our research that many of the people who wanted to partake in those discussions did not even know they were going on.

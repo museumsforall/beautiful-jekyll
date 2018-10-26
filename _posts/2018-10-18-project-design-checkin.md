@@ -21,7 +21,7 @@ In galleries, people can use a museum installation electronic device to share an
 
 EXISTING TASK: In addition to supporting our new tasks, this design also aims to *expand upon visitors’ ability to create alternative interpretations and criticisms.* 
   
- ![design2](/img/museum_installation.jpg)
+ ![design2](/img/Installation2.jpg)
  
 
 ### Headset and Device

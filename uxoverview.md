@@ -64,15 +64,16 @@ Task 1: Creating alternative interpretations and Critiques
 
 In this scenario, Lisa, a museum visitor comes across a painting she finds problematic. She wonders if other people also find this painting problematic and worrisome. As she looks longer at the art, she realizes that although it is problematic, it should be included in the installation because it represents history. As she makes this conclusion, she views the museum installation and decides she wants to share her thoughts. Lisa then goes to the installation and notices that there is an existing discussion already there about the history of the painting. She reads the comments, realizes that other people agree and disagree with her. She types up her response and submits it. She is glad the museum is facilitating these discussions. These discussions are needed for others to understand art and the museum kiosk is an effective way to share her opinion. 
 
-insert image here
+![StoryBoard1](/img/elvira_storyboard.jpg)
 
 Task 2: Reading alternative interpretations, critiques and ongoing discussions 
 
 
 In this scenario, Alex, a museum visitor comes across a painting she finds problematic. Oftentimes she dislikes going to museums because she feels she can never fully understand art because she can’t share her opinions or know other people’s opinions. When viewing the painting, she notices the museum kiosk and starts to read comments left by WCMA staff members and other visitors. She enjoys reading the comments because they are bringing up points that she had not thought of previously. She then forms her own opinions on the art, realizes that other people agree with her. She also leaves a comment and leaves the exhibit feeling more comfortable because she feels like she can understand and discuss the art at a deeper level. 
 
-insert image here
-insert a link 
+![StoryBoard2](/img/storyboard1.jpg)
+
+Further details about our scenarios and storyboard can be found [here] (https://museumsforall.github.io/2018-10-22-Project-Design-Review/)
 
 
 #### An Important Note

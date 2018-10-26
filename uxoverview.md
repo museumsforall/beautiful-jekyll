@@ -19,16 +19,12 @@ We conducted two contextual inquiries and three semi-structured interviews for o
 
 ### Design Research Results and Themes 
 
-[Results and Themes](https://museumsforall.github.io/2018-10-04-contextual-inquiry-review/)
-
-Some of the themes present as we were reviewing our research results were accountability and accessibility for a specific group of people, specifically people of color. There is a need for accountability that has resulted from social distrust of museums. From our affinity diagram, clarity is needed when it comes to labels and audio recordings at museums. Users are categorizing museums as uncomfortable spaces, so there is a need to make museums more comfortable. We also discovered that people are more likely to engage with art if there is a sense of familiarity present or if there is a compelling ambience in an exhibit. From these themes, it became clear to us which tasks our design had to accomplish… help users connect with art by making museums more comfortable and centering narratives of people of color by sharing them or making them more accessible. 
+As we were reviewing the [data](https://museumsforall.github.io/2018-10-04-contextual-inquiry-review/) we gathered from our contextual inquiries and semi structured interviews, some of the major themes present were a need for accountability and accessibility. We discovered that people are more likely to engage with art if there is a sense of familiarity. From these discoveries, it became clear to us which tasks we had to accomplish. Our designs should help connect museum visitors engage with art by making museums more comfortable and centering the narratives of PoC by sharing them or making them more accessible. 
 
 
 ### Answers to Task Analysis Questions 
 
-[Task Analysis](https://museumsforall.github.io/2018-10-04-contextual-inquiry-review/)
-
-Based on our contextual inquiries and interviews, we were able to discover that PoC may not feel comfortable in museum spaces for a number of reasons. One of the most prominent reasons we observed was a dislike in the way the museum displayed PoC and how they handled PoC issues. People already make their own critiques and interpretations-- this is an exhisting task. The new tasks we wanted to implement are sharing these interpretations and fostering discussion about important topics relating to people of color. Our museum installation aims to accomplish these by essentially acting as a discussion platform complete with pre-made prompts that explicitly address expressions of power, discomfort, and marginalization in museums.
+Based on our [contextual inquiries](https://museumsforall.github.io/2018-10-04-contextual-inquiry-review/) and interviews, we were able to discover that PoC may not feel comfortable in museum spaces for a number of reasons. One of the most prominent reasons we observed was a dislike in the way the museum displayed PoC and how they handled PoC issues. People already make their own critiques and interpretations-- this is an exhisting task. The new tasks we wanted to implement are sharing these interpretations and fostering discussion about important topics relating to people of color. Our museum installation aims to accomplish these by essentially acting as a discussion platform complete with pre-made prompts that explicitly address expressions of power, discomfort, and marginalization in museums.
 
 
 ### Proposed Design Sketches - “3x4”

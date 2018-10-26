@@ -14,6 +14,10 @@ The good news is that WCMA is working to specifically address this problem by fa
 
 Thus, our proposed solution is essentially a discussion platform installed into the museum itself that becomes its own piece on display. We want the installation to not only provide concerned visitors with a platform to have their voices heard, but to also archive and display these discussion points in the museum. The goal is for the discussion to happen immediately, and for people's voices to not disappear into the void and instead be heard by the community and centered in the museum experience. Toward that end, our museum installation has an accompanying display at the front of the museum that showcases users' comments (more info on this below).
 
+
+![museum](/img/museum.png)
+Figure 1: [WCMA Discussion - Reading Room](https://wcma.williams.edu/reading-room/)   
+
 ### Design Research Goals, Stakeholders, and Participants
 We conducted two contextual inquiries and three semi-structured interviews for our [research](https://museumsforall.github.io/2018-10-04-contextual-inquiry-review/). We had no particular selection criteria for our contextual inquiry subjects except that they must not be individuals we know and not identify themselves as "art people." We did this with the hope that our data would reflect the experiences of those for whom the museum might be most inaccessible. We also interviewed three WCMA staff members to learn more about the work they do with the museum and how they tackle issues of inaccessibility.
 

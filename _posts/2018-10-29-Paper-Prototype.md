@@ -4,14 +4,14 @@ title: Paper Prototype
 ---
 ## Paper Prototype 
 
-![Overview](/img/overview.png)
+![Overview](/img/overview.jpeg)
 
-![home](/img/home.png)
+![home](/img/home.jpeg)
 
-![exhibitdetail](/img/exhibitdetail.png)
+![exhibitdetail](/img/exhibitdetail.jpeg)
 
-![discussionpopup](/img/discussionpopup.png)
+![discussionpopup](/img/discussionpopup.jpeg)
 
-![phone1](/img/phone1.png)
+![phone1](/img/phone1.jpeg)
 
-![phone2](/img/phone2.png)
+![phone2](/img/phone2.jpeg)

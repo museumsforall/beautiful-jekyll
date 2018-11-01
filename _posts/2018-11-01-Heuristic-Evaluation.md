@@ -16,8 +16,9 @@ For the second heuristic evaluation, Dana and Elvira conducted the evaluation. E
 ### Heuristic Evaluation 2
 **Conducted by Elvira and Jamie. Evaluated by Landon**
 
-An overview of the heuristic evaluation table is outlined in Figure 3. Some repeated comments were.... Some improvements to our paper prototype are... An overview of our paper prototype can be seen in Figure 4. 
 
+# Overview of Heuristic Evaluations
+An overview of the heuristic evaluation table is outlined in Figure 3. An overview of our paper prototype can be seen in Figure 4. 
 
 Figure 3: Overview of Heuristic Evaluations 
 ![Figure 3: Heuristic Evaluation Table](/img/heuristic_eval_table.png)

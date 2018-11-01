@@ -8,6 +8,8 @@ After further discussion with Iris about our project design, we decided to chang
 
 From our brainstorming session, we believe that implementing an interactive smartboard is a more innovative and useful way of making exhibits more acccessible to museum visitors. This board will allow users to learn more about specific artwork/exhibits. Based on the exhibit chosen, a description of the exhibit and a word cloud/bubble will be displayed with certain words associated to the exhibit. Visitors can click on the word and a description of the previous discussions that have occured at WCMA that are related to the word will pop up along with a window with context information and comments. Visitors will be able to read about different topics/conversations and contribute their thoughts by texting them to the number provided. Theses comments sent in via text message will be read by museum staff and added to the preexisting comments/discussion on the board. 
 
+Rather than relying on discussion to solve the problems we are designing for, we decided to make our design more educational. The context we provide will be pre-written and could potentially be submitted by community members with a vested interest or specialty in these topics, such as professors, interested students, community organizers, or even WCMA staff. Discussion is then a supplemental component of this, but not the sole or main way that we hope to accomplish our design goals.
+
 Our [paper prototype](https://museumsforall.github.io/2018-10-29-Paper-Prototype/) has further detail about the components of this design. 
 
 The tasks we chose for each of our new story boards are: 

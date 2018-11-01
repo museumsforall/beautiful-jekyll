@@ -21,8 +21,8 @@ Figure 2: Heuristic Evaluation 2
 # Overview of Heuristic Evaluations
 An overview of the heuristic evaluation table is outlined in Figure 3. An overview of our paper prototype can be seen in Figure 4. 
 
-Figure 3: Overview of Heuristic Evaluations 
 ![Figure 3: Heuristic Evaluation Table](/img/heuristic_eval_table.png)
+Figure 3: Overview of Heuristic Evaluations 
 
 ### Steps for Revising Our Paper Protoypes
 * Include the information to text your comments in *on every screen*, not just the first one. These instructions can simply be added in to the same spot on each screen so they're always available.

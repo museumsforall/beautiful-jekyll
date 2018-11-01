@@ -1,1 +1,20 @@
+---
+layout: post
+title: Heuristic Evaluations
+---
+# Heuristic Evaluation
 
+In class we conducted two heuristic evaluations of our paper prototypes. For the first heuristic evaluation, Jamie and Elvira conducted the evaluation. Jamie was the facilitator/computer while Elvira observed and took notes. Figure 1 shows the Heuristic Evaluation table completed by the other team. 
+
+
+Figure 1: Heuristic Evaluation 1 
+
+For the second heuristic evaluation, Dana and Elvira conducted the evaluation. Elvira mainly facilitated the evaluation while Dana took notes and was the computer. Figure 2 shows the Heuristic Evaluation table completed by the other team. 
+
+
+Figure 2: Heuristic Evalution 2
+
+An overview of the heuristic evaluation table is outlined in Figure 3. 
+
+
+Figure 3: Overview of Heuristic Evaluations 

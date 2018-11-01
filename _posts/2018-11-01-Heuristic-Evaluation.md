@@ -16,5 +16,6 @@ An overview of the heuristic evaluation table is outlined in Figure 3. Some repe
 
 
 Figure 3: Overview of Heuristic Evaluations 
+![Figure 3: Heuristic Evaluation Table](/img/heuristic_eval_table.png)
 
 Figure 4: Overview of Paper Prototype

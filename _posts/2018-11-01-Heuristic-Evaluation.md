@@ -34,7 +34,7 @@ Figure 3: Overview of Heuristic Evaluations
 
 ### Figure 4: Our Revised Paper Prototype
 
-Image here.
+![Figure 4: Updated Paper Prototype Over](/img/updated_prototype.jpeg)
 
 We revised our paper protoype in the following ways:
 * We included a ? button on each screen. Clicking this ? button will tell the user more about our project and also provide them with instructions on how to use the interface. This also includes a FAQ section and instructions on how to text in comments.

@@ -26,8 +26,7 @@ Comment Section Scroll Bar: no actual signifier to suggest people can scroll dow
 
 
 ## Revised Design 
-
-![Home Screens](/img/home_2.jpg)
+![Redesign Overview](/img/overview.jpg)
 
 We made several changes in this new iteration of our design, including:
 * Offering clearer instructions on how to use our interface
@@ -37,6 +36,17 @@ We made several changes in this new iteration of our design, including:
 * Using clearer wording in "choose a *topic* to learn more"
 * Combining the "ADDITIONAL CONTEXT" and "DISCUSSION HIGHLIGHTS" screens into one, which someone suggested during our in-class usability test
 * Scroll feature signifiers wherever scrolling is possible
+
+The following images are step-by-step screens. The yellow index card, if you can't tell, is a phone (admittedly, we used a metal pin to hold down the curling sticky notes, so please ignore this in the photos). The pink index cards are pop-up screens.
+
+**Task: Learning more about an exhibit and what people have to say about it**
+![Home Screens](/img/home.jpg)
+![Exhibit Screen](/img/exhibit.jpg)
+![Discussion and Context Screens](/img/discussion_and_context.jpg)
+
+
+**Task: Sharing your thoughts/contributing to discussion**
+![Text Message Prompts](/img/phone_screens.jpg)
 
 ## Plan for the remainder of our usability tests
 

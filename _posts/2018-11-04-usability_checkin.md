@@ -42,16 +42,16 @@ The following images are step-by-step screens. The yellow index card, if you can
 **Task: Learning more about an exhibit and what people have to say about it**
 ![Home Screens](/img/home.jpg)
 In the second and third screen, the user clicked on the ? buttons in the top right and bottom.
-
-
+\
+\
 ![Exhibit Screen](/img/exhibit.jpg)
 After clicking on an exhibit (Dance We Must), the user is brought to this screen.
-
-
+\
+\
 ![Discussion and Context Screens](/img/discussion_and_context.jpg)
 After clicking on a topic, the user is brought to this screen. They have now accomplished their task.
-
-
+\
+\
 **Task: Sharing your thoughts/contributing to discussion**
 ![Text Message Prompts](/img/phone_screens.jpg)
 

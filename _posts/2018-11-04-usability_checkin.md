@@ -13,7 +13,7 @@ Word Choice: "Choose a word to learn more!"
 
 [insert image of change here?] 
 
-Comment Section Scroll Bar: no actual signifier to suggest people can scroll dowm/up to view more comments
+Comment Section Scroll Bar: no actual signifier to suggest people can scroll down/up to view more comments
 * Heuristic Violation: Help and Documentation, Consistency 
 * Severity: 3 
 

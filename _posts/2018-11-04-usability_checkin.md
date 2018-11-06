@@ -27,6 +27,8 @@ Comment Section Scroll Bar: no actual signifier to suggest people can scroll dow
 
 ## Revised Design 
 
+![Home Screens](/img/home.jpg)
+
 We made several changes in this new iteration of our design, including:
 * Offering clearer instructions on how to use our interface
 * Making the instructions/help button more noticeable, since we noticed during one of our usability tests that although our help button answers our tester's questions, they did not notice it

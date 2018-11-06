@@ -27,7 +27,7 @@ Comment Section Scroll Bar: no actual signifier to suggest people can scroll dow
 
 ## Revised Design 
 
-![Home Screens](/img/home.jpg)
+![Home Screens](/img/home_2.jpg)
 
 We made several changes in this new iteration of our design, including:
 * Offering clearer instructions on how to use our interface

@@ -49,7 +49,6 @@ After clicking on a topic, the user is brought to this screen. They have now acc
 \
 **Task: Sharing your thoughts/contributing to discussion**
 ![Text Message Prompts](/img/phone_screens.jpg)
-
 ## Next Steps 
 
 For the rest of our usability tests, we plan on recruiting another Williams student who is less interested in Division 3 courses/ technology. We would like to know if not having a technology background will significantly impact the way users will interact with our design. We would also like to recruit a museum visitor or WCMA staff as this would provide more insight as to how our design can actually be used in museums. For the additional tests, we plan on switching roles, so all team members can feel comfortable being the facilitator. As a new approach, it would be interesting to record these tests for future reference. 

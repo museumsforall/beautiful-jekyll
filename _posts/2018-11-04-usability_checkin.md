@@ -8,8 +8,6 @@ During class we conducted three cognitive walk-throughs to determine if potentia
 
 For our second cognitive walk-through, our persona was an occasional WCMA visitor who felt ambivalent about the *Dance We Must* exhibit. His task was to get more information about a particular exhibit and read about what others have to say. Here, the action sequence was the same. We saw a similar problem with word choice which is why we decided to change "choose a word to learn more!" to "choose a topic to learn more!" on our design. For our final cognitive-walk through we had a persona who was visiting the *Dance We Must* exhibit for the third time and wanted to leave a comment. This walk-through revealed that leaving a comment from the homepage is a doable task.
 
-**Table of our Results** 
-
 ![CW Table](/img/CW.png)
  
 ## First Usability Test
@@ -53,5 +51,6 @@ After clicking on a topic, the user is brought to this screen. They have now acc
 ![Text Message Prompts](/img/phone_screens.jpg)
 
 ## Next Steps 
-For the rest of our usability tests, we plan on recruiting another Williams student who is less interested in Division 3 courses/ technology. If time permits, we would also like to recruit a museum visitor from WCMA. 
+
+For the rest of our usability tests, we plan on recruiting another Williams student who is less interested in Division 3 courses/ technology. We would like to know if not having a technology background will significantly impact the way users will interact with our design. We would also like to recruit a museum visitor or WCMA staff as this would provide more insight as to how our design can actually be used in museums. For the additional tests, we plan on switching roles, so all team members can feel comfortable being the facilitator. As a new approach, it would be interesting to record these tests for future reference. 
 

@@ -24,6 +24,13 @@ Comment Section Scroll Bar: no actual signifier to suggest people can scroll dow
  
 ## First Usability Test
 
+Over the weekend we conducted our first usability test with our paper prototype. We recruited a Williams student who is not in HCI and has no experience or background in art. We conducted the test in eco cafe at night when there were not a lot of people. We chose this environment because it was familiar, convenient and comfortable for the participant. We chose this participant because he has no background in art but interest in computer science. We thought he was a good participant because he has an interest in technology. 
+
+To start the test we introduced our project with some background about the HCI course we are currently in and a vague description of the goal/purpose of our project. We emphasized the importance of thinking aloud and oversharing his opinions and thoughts during the test. We then read him a background story, summarized above and asked him to complete the first task. Once he completed the first task we asked him to complete the second. Jamie facilitated the test while Dana took notes. 
+
+After completing this usability test we learned how a user who is not familiar with our class or background interacts with our product. We realized that key revisions need to be made including clarification of particular headers and clearer response messages. These change are outlined in the table below and further discussed below. 
+
+INSERT TABLE
 
 ## Revised Design 
 ![Redesign Overview](/img/overview.jpg)

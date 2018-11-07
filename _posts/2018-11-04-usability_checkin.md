@@ -8,7 +8,7 @@ During class we conducted three cognitive walk-throughs to determine if potentia
 
 For our second cognitive walk-through, our persona was an occasional WCMA visitor who felt ambivalent about the *Dance We Must* exhibit. His task was to get more information about a particular exhibit and read about what others have to say. Here, the action sequence was the same. We saw a similar problem with word choice which is why we decided to change "choose a word to learn more!" to "choose a topic to learn more!" on our design. For our final cognitive-walk through we had a persona who was visiting the *Dance We Must* exhibit for the third time and wanted to leave a comment. This walk-through revealed that leaving a comment from the homepage is a doable task.
 
-![CW Table](/img/CW.png)
+![CW Table](/img/CW1.png)
  
 ## First Usability Test
 

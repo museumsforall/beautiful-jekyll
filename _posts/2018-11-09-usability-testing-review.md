@@ -25,4 +25,5 @@ Detailed images showing each component as you walk through your two primary task
 
 
 **Key Revisions** 
+
 Discuss two to four revisions that you consider to be the most salient and important modifications to your paper prototype based on issues identified in inspection, usability testing, or critique. These issues may already be included in the above list, but discuss them in more detail and argue why detecting and fixing them is important to your design.

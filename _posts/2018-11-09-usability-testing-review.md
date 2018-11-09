@@ -26,7 +26,7 @@ We introduced our project with some background about the HCI course and a vague 
 
 After completing this usability we realized we needed to redesign our content/context pages to be a different layout because putting them side to side makes it slightly confusing. Also she brought up good points that not all people might not have phones and would not be able to contribute to the discussion. She helped us realize that some design and layout revisions need to be made. These changes are outlined and described in the table below. 
 
-
+![Usability Test Table](/img/usabilitytest3.png)
 
 ## Final Paper Prototype 
 

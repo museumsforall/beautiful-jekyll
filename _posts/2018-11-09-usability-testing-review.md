@@ -34,7 +34,7 @@ Detailed images showing each component as you walk through your two primary task
 Discuss two to four revisions that you consider to be the most salient and important modifications to your paper prototype based on issues identified in inspection, usability testing, or critique. These issues may already be included in the above list, but discuss them in more detail and argue why detecting and fixing them is important to your design.
 
 ## Final Paper Prototype
-![Final Paper Prototype](/img/overview_revised.jpg)
+![Final Paper Prototype](/img/overview_revised.JPG)
 
 **We made the following revisions to our paper prototype:**
 * One important piece of feedback we received was that the layout of our final page, which displayed our "Additional Context" and "Discussion Highlights" panes side-by-side, was confusing. Our tester noted that it was hard to distinguish what each one was when placed next to each other or whether they were two separate panels or one continuous panel. We took this observation very seriously because the additional context and discussion are the essential components of our design; we hope the former to add an educational aspect to museum visitors' experience and for the latter to uplift certain voices. To fix this issue, we decided to now only display the "Additional Context" panel to start. There will be a button, "View Discussion," which the user can click. Upon clicking, the "Additional Context" panel will slide over and the "Discussion Highlights" panel will appear next to it. We believe forcing the user to spawn the discussion panel will make it clear that these are two separate, but related, entities.
@@ -45,4 +45,4 @@ Discuss two to four revisions that you consider to be the most salient and impor
 ![Task 1](/img/task_1_workflow.jpg)
 
 **And here is the workflow for performing Task 2: Share your thoughts/contribute to the discussion.**
-![Task 2](/img/phone_screens_revised.jpg)
+![Task 2](/img/phone_screens_revised.JPG)

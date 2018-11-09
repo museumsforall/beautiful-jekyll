@@ -5,11 +5,7 @@ title: Usability Testing Review
 
 ## Usability Tests 
 
-Discuss your three usability tests. Provide a description of each test, including the participant, the environment, why you chose this participant and environment, the test protocol, and the roles of each team member who participated in the test. Briefly discuss revisions you made in your process and prototype over the course of your testing. Present a table or list of results from your three usability tests. For each critical incident, include:
-An image of the relevant portion of the prototype.
-Description of the incident, remembering that these can be either positive or negative.
-For negative incidents, the severity of the issue assigned by the team.
-For negative incidents, an image and explanation of any revision implemented as a result.
+Over the last week and a half we conducted three usability tests. For the first test, we used our original paper prototype that we created. Then after conducting this first test and a cognitive walk through, we made changes to our prototype and conducted two more usability tests. The results and key takeaways from conducted these tests are outline below. 
 
 **Usability Test 1**
 Over the weekend we conducted our first usability test with our paper prototype. We recruited a Williams student who is not in HCI and has no experience or background in art. We conducted the test in Eco Cafe at night when there were not a lot of people. We chose this environment because it was familiar, convenient and comfortable for the participant, as well as undistracting. We thought our participant was a good choice because he has an interest in technology but no background in design.

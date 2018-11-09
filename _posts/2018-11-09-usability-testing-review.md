@@ -5,13 +5,7 @@ title: Usability Testing Review
 
 ## Usability Tests 
 
-TESTING
-
-Discuss your three usability tests. Provide a description of each test, including the participant, the environment, why you chose this participant and environment, the test protocol, and the roles of each team member who participated in the test. Briefly discuss revisions you made in your process and prototype over the course of your testing. Present a table or list of results from your three usability tests. For each critical incident, include:
-An image of the relevant portion of the prototype.
-Description of the incident, remembering that these can be either positive or negative.
-For negative incidents, the severity of the issue assigned by the team.
-For negative incidents, an image and explanation of any revision implemented as a result.
+Over the last week and a half we conducted three usability tests. For the first test, we used our original paper prototype that we created. Then after conducting this first test and a cognitive walk through, we made changes to our prototype and conducted two more usability tests. The results and key takeaways from conducted these tests are outline below. 
 
 **Usability Test 1**
 Over the weekend we conducted our first usability test with our paper prototype. We recruited a Williams student who is not in HCI and has no experience or background in art. We conducted the test in Eco Cafe at night when there were not a lot of people. We chose this environment because it was familiar, convenient and comfortable for the participant, as well as undistracting. We thought our participant was a good choice because he has an interest in technology but no background in design.
@@ -25,6 +19,13 @@ After completing this usability test we learned how a user who is not familiar w
 **Usability Test 2**
 
 **Usability Test 3** 
+
+This week we conducted our third usability test with our paper prototype. We recruited a Williams student who is not in HCI and does not have a technical background or experience with art. We conducted the test in Lees on Thursday afternoon where there were plenty of people around but not crowded. We chose this environment because it was familiar and convenient for the participant. We chose this participant because she has no focused background with design or technology. We thought she was a good participant because her lack of technical background would give us some good insight into design. 
+
+We introduced our project with some background about the HCI course and a vague description of our goal and purpose of the project. We emphasized the importance of thinking aloud and oversharing opinions and thoughts during the test. Then we read her a background story: she had just gone through the Dance We Must exhibit in WCMA and saw the smartboard on his way out. Then we asked her to complete the first task: viewing other people's comments on the work. We then asked her to complete the second task: sharing her own comments in response to the work. Dana facilitated the test while Jamie was the computer and Elvira took notes. 
+
+After completing this usability we realized we needed to redesign our content/context pages to be a different layout because putting them side to side makes it slightly confusing. Also she brought up good points that not all people might not have phones and would not be able to contribute to the discussion. She helped us realize that some design and layout revisions need to be made. These changes are outlined and described in the table below. 
+
 
 
 ## Final Paper Prototype 

@@ -18,6 +18,13 @@ After completing this usability test we learned how a user who is not familiar w
 
 **Usability Test 2**
 
+For our second usability test, our participant was a female undergraduate student at Williams College who identifies as a minority with little interest in visiting museums. We chose her as a participant since she is representative of the group we are trying to make museums more accessible to. This usability test was conducted in the evening at the living room of West College. This space was chosen since it has paintings in the interior resembling a museum. For this test, Elvira was the facilitator/computer and Jamie was the notetaker. 
+
+We followed the same procedure as our first usability test. We gave a very brief overview of who we are and the goal of our project. We gave her a description of a persona: she was a museum visitor who viewed the ‘Dance We Must Exhibit’ and wanted to learn more about what other people have to say. This was her first task. Her second task was that now after viewing what others have to say, she wanted to contribute to the discussion. 
+
+Throughout the usability test, we realized that our word choice may not be as clear as we thought when it comes to choosing a topic to learn more about. Moreover, our participant thought it was weird that there was not an option to reply to a specific comment. The ‘?’ was often used when the participant was confused. The key incidents are outlined below. 
+
+
 **Usability Test 3** 
 
 This week we conducted our third usability test with our paper prototype. We recruited a Williams student who is not in HCI and does not have a technical background or experience with art. We conducted the test in Lees on Thursday afternoon where there were plenty of people around but not crowded. We chose this environment because it was familiar and convenient for the participant. We chose this participant because she has no focused background with design or technology. We thought she was a good participant because her lack of technical background would give us some good insight into design. 

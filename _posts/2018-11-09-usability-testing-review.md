@@ -18,6 +18,8 @@ To start the test we introduced our project with some background about the HCI c
 
 After completing this usability test we learned how a user who is not familiar with our class or background interacts with our product. We realized that key revisions need to be made including clarification of particular headers and clearer response messages. These change are outlined in the table below and further discussed below.
 
+![Usability Test Table](/img/usabilitytest1.png)
+
 **Usability Test 2**
 
 **Usability Test 3** 

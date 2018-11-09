@@ -24,6 +24,14 @@ After completing this usability test we learned how a user who is not familiar w
 
 **Usability Test 3** 
 
+This week we conducted our third usability test with our paper prototype. We recruited a Williams student who is not in HCI and does not have a technical background or experience with art. We conducted the test in Lees on Thursday afternoon where there were plenty of people around but not crowded. We chose this environment because it was familiar and convenient for the participant. We chose this participant because she has no focused background with design or technology. We thought she was a good participant because her lack of technical background would give us some good insight into design. 
+
+We introduced our project with some background about the HCI course and a vague description of our goal and purpose of the project. We emphasized the importance of thinking aloud and oversharing opinions and thoughts during the test. Then we read her a background story: she had just gone through the Dance We Must exhibit in WCMA and saw the smartboard on his way out. Then we asked her to complete the first task: viewing other people's comments on the work. We then asked her to complete the second task: sharing her own comments in response to the work. Dana facilitated the test while Jamie was the computer and Elvira took notes. 
+
+After completing this usability we realized we needed to redesign our content/context pages to be a different layout because putting them side to side makes it slightly confusing. Also she brought up good points that not all people might not have phones and would not be able to contribute to the discussion. She helped us realize that some design and layout revisions need to be made. These changes are outlined and described in the table below. 
+
+![Usability Test Table] 
+
 ## Final Paper Prototype 
 
 Submit detailed images of your final paper prototype, as revised in this process. Include both:

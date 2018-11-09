@@ -28,13 +28,21 @@ After completing this usability we realized we needed to redesign our content/co
 
 ![Usability Test Table](/img/usabilitytest3.png)
 
-## Final Paper Prototype 
-
 Submit detailed images of your final paper prototype, as revised in this process. Include both:
 An overview image that shows your entire paper prototype.
 Detailed images showing each component as you walk through your two primary tasks.
-
-
-**Key Revisions** 
-
 Discuss two to four revisions that you consider to be the most salient and important modifications to your paper prototype based on issues identified in inspection, usability testing, or critique. These issues may already be included in the above list, but discuss them in more detail and argue why detecting and fixing them is important to your design.
+
+## Final Paper Prototype
+![Final Paper Prototype](/img/overview_revised.jpg)
+
+**We made the following revisions to our paper prototype:**
+* One important piece of feedback we received was that the layout of our final page, which displayed our "Additional Context" and "Discussion Highlights" panes side-by-side, was confusing. Our tester noted that it was hard to distinguish what each one was when placed next to each other or whether they were two separate panels or one continuous panel. We took this observation very seriously because the additional context and discussion are the essential components of our design; we hope the former to add an educational aspect to museum visitors' experience and for the latter to uplift certain voices. To fix this issue, we decided to now only display the "Additional Context" panel to start. There will be a button, "View Discussion," which the user can click. Upon clicking, the "Additional Context" panel will slide over and the "Discussion Highlights" panel will appear next to it. We believe forcing the user to spawn the discussion panel will make it clear that these are two separate, but related, entities.
+* Another revision we made was changing our word cloud to display words in various shades of pink. All of our clickable buttons on the interface are pink, but the word cloud words initially appeared in green, blue, purple, etc. Our tester noted that the instructions told her to click a topic to learn more, but that she was hesitant to do so because they were not pink. We definitely wanted to fix this because it can be very frustrating to work with counter-intuitive instructions. We decided to change all of the clickable word cloud words into shades of pink to be more consistent with our theme.
+* We also observed testers' confusion with our "Additional Context" panel and what it means. Part of this might be that our paper prototype does not display real content. At the top of the panel it says the content is "Submitted by Taylor R. '20, history major," but one tester noted that they thought this was a comment by some Taylor R. We realized we needed to be clear in where we are sourcing our content from so that people can get the information without being bogged down by confusion over little details. To fix this, we changed our "Additional Context" panel to be more descriptive about where the content came from and also to provide a visual break between this info and the beginning of the text.
+
+**Here is the workflow for performing Task 1: Learn more about an exhibit and the discussion going on about it.**
+![Task 1](/img/task_1_workflow.jpg)
+
+**And here is the workflow for performing Task 2: Share your thoughts/contribute to the discussion.**
+![Task 2](/img/phone_screens_revised.jpg)

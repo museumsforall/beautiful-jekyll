@@ -24,6 +24,7 @@ We followed the same procedure as our first usability test. We gave a very brief
 
 Throughout the usability test, we realized that our word choice may not be as clear as we thought when it comes to choosing a topic to learn more about. Moreover, our participant thought it was weird that there was not an option to reply to a specific comment. The ‘?’ was often used when the participant was confused. The key incidents are outlined below. 
 
+![Usability Test Table](/img/u3chart.png)
 
 **Usability Test 3** 
 

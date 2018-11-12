@@ -3,6 +3,8 @@ layout: post
 title: Digital Mokcup
 ---
 
+## Task 1: 
+** Viewing discussion about a particular exhibit ** 
 
 ## Decisions and changes made in implementing the digital mockup:
 * We could not implement a "sliding window" feature, which we had simulated in our digital mockup. Instead, one window moves to the left so another can appear beside it in a simple pop-up way.

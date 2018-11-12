@@ -7,6 +7,8 @@ title: Digital Mockup
 
 ## Task 1: Viewing discussion about a particular exhibit 
 
+![home](img/Home.png) 
+
 ## Task 2: Contributing to the discussion 
 
 ## Decisions and changes made in implementing the digital mockup:

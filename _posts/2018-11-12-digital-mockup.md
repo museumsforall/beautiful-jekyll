@@ -7,7 +7,13 @@ title: Digital Mockup
 
 ## Task 1: Viewing discussion about a particular exhibit 
 
-![home](img/Home.png) 
+![home](/img/Home.png)
+
+![exhibit page](/img/Exhibit Page.png) 
+
+![additional context](/img/Additional Context.png)
+
+![discussion](/img/Additional Context and Discussion.png)
 
 ## Task 2: Contributing to the discussion 
 

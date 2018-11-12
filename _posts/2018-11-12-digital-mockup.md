@@ -9,11 +9,11 @@ title: Digital Mockup
 
 ![home](/img/Home.png)
 
-![exhibit page](/img/Exhibit Page.png) 
+![exhibit](/img/ExhibitPage.png) 
 
-![additional context](/img/Additional Context.png)
+![additional](/img/AdditionalContext.png)
 
-![discussion](/img/Additional Context and Discussion.png)
+![discussion](/img/AdditionalContextandDiscussion.png)
 
 ## Task 2: Contributing to the discussion 
 

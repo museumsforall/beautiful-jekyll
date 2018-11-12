@@ -4,6 +4,9 @@ title: Digital Mockup
 ---
 
 ## Overview: 
+For our museum installation, we used Balsamiq to create our digital mockup. The following show two important tasks of our design: 
+* viewing discussions about a particular exhibit 
+* contributing the the discussion 
 
 ## Task 1: Viewing discussion about a particular exhibit 
 

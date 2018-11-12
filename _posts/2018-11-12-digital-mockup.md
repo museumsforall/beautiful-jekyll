@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Mokcup
+title: Digital Mockup
 ---
 
 ## Overview: 

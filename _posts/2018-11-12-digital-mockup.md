@@ -24,19 +24,19 @@ Here, the user can scroll to read the 'Discussion Highlights.' A back arrow and 
 
 ## Task 2 
 
-![phone](/img/phone1.png)
+![phone](/img/Phone1.png)
 
-![phone](/img/phone2.png)
+![phone](/img/Phone2.png)
 
-![phone](/img/phone3.png)
+![phone](/img/Phone3.png)
 
-![phone](/img/phone4.png)
+![phone](/img/Phone4.png)
 
-![phone](/img/phone5.png)
+![phone](/img/Phone5.png)
 
-![phone](/img/phone6.png)
+![phone](/img/Phone6.png)
 
-![phone](/img/phone7.png)
+![phone](/img/Phone7.png)
 
 ## Decisions and changes made in implementing the digital mockup:
 * We could not implement a "sliding window" feature, which we had simulated in our digital mockup. Instead, one window moves to the left so another can appear beside it in a simple pop-up way.

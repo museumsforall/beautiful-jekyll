@@ -4,7 +4,7 @@ title: Digital Mockup
 ---
 
 ## Overview: 
-For our museum installation, we used Balsamiq to create our digital mockup. The following show [two important tasks](https://museumsforall.github.io/2018-10-29-Paper-Prototype/) of our design: 
+For our museum installation, we used Balsamiq to create our digital mockup. The following shows a walk through of [two important tasks](https://museumsforall.github.io/2018-10-29-Paper-Prototype/) of our design: 
 * viewing discussions happening at WCMA about particular artworks/ exhibits 
 * contributing to such discussions  
 

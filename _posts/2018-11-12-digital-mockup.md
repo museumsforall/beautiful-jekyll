@@ -9,6 +9,7 @@ For our museum installation, we used Balsamiq to create our digital mockup. The 
 * contributing to such discussions  
 
 This is a picture of an overview of all the wireframes created for our project: 
+
 ![overview](/img/wireframeoverview.png)
 
 ## Task 1 
@@ -30,21 +31,27 @@ Here, the user can scroll to read the 'Discussion Highlights.' A back arrow and 
 Task two requires users to contribute to ongoing discussion happening at WCMA about particular artworks/exhibits. After completing the first task, the user can text his/her comments by using their phone. Here is a wireframe walking through the process of contributing thoughts regarding the exhibit: 
 
 1) The user texts the appropriate muesum code to start the process in contributing to conversation: 
+
 ![phone](/img/Phone1.png)
 
 2) The user receives the following text as a response
+
 ![phone](/img/Phone3.png)
 
 3) The user selects which exhibit to contribute to by texting the appropriate number. 
+
 ![phone](/img/Phone4.png)
 
 4) The user receives the following text as a response 
+
 ![phone](/img/Phone5.png)
 
 5) The user types up comment and sends it in
+
 ![phone](/img/Phone6.png)
 
 6) The user gets the following response and now completed the task. 
+
 ![phone](/img/Phone7.png)
 
 ## Decisions and changes made in implementing the digital mockup:

@@ -30,7 +30,7 @@ Here, the user can scroll to read the 'Discussion Highlights.' A back arrow and 
 
 Task two requires users to contribute to ongoing discussion happening at WCMA about particular artworks/exhibits. After completing the first task, the user can text his/her comments by using their phone. Here is a wireframe walking through the process of contributing thoughts regarding the exhibit: 
 
-1) The user texts the appropriate muesum code to start the process in contributing to conversation: 
+1) The user texts the appropriate museum code to start the process in contributing to conversation: 
 
 ![phone](/img/Phone1.png)
 

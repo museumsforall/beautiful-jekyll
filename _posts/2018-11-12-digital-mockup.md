@@ -10,7 +10,7 @@ For our museum installation, we used Balsamiq to create our digital mockup. The 
 
 ## Task 1 
 
-In order to view discussions about particular exhibits happening at WCMA, in this case the 'Dance We Must' exhibit, we start at the 'homepage' of our installation. On this page we can see the different exhibits currently on display at WCMA. The directions state to click on an exhibit to learn more about it. In this case the user will click the 'Dance We Must' exhibit. If the user is having trouble they can click on the question mark on the top right corner which takes to the 'About Muse' page. 
+In order to view discussions about particular exhibits happening at WCMA, in this case the 'Dance We Must' exhibit, we start at the 'homepage' of our installation. On this page we can see the different exhibits currently on display at WCMA. The directions state to click on an exhibit to learn more about it. In this case the user will click the 'Dance We Must' exhibit. If the user is having trouble they can click on the question mark on the top right corner which takes them to the 'About Muse' page. 
 ![home](/img/home.png)
 
 Once the user has successfully selected an exhibit, they will be taken to the 'Dance We Must' exhibit page. This page has a word cloud and additional context the user can scroll through. We will have the user select 'Cultural Appropriation' for this task. 

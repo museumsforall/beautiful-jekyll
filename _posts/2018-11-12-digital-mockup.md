@@ -8,6 +8,8 @@ For our museum installation, we used Balsamiq to create our digital mockup. The 
 * viewing discussions happening at WCMA about particular artworks/ exhibits 
 * contributing to such discussions  
 
+![overview](/img/wireframeoverview.png)
+
 ## Task 1 
 
 In order to view discussions about particular exhibits happening at WCMA, in this case the 'Dance We Must' exhibit, we start at the 'homepage' of our installation. On this page we can see the different exhibits currently on display at WCMA. The directions state to click on an exhibit to learn more about it. In this case the user will click the 'Dance We Must' exhibit. If the user is having trouble they can click on the question mark on the top right corner which takes them to the 'About Muse' page. 

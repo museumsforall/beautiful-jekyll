@@ -8,6 +8,7 @@ For our museum installation, we used Balsamiq to create our digital mockup. The 
 * viewing discussions happening at WCMA about particular artworks/ exhibits 
 * contributing to such discussions  
 
+This is a picture of an overview of all the wireframes created for our project: 
 ![overview](/img/wireframeoverview.png)
 
 ## Task 1 
@@ -26,21 +27,28 @@ Here, the user can scroll to read the 'Discussion Highlights.' A back arrow and 
 
 ## Task 2 
 
+Task two requires users to contribute to ongoing discussion happening at WCMA about particular artworks/exhibits. After completing the first task, the user can text his/her comments by using their phone. Here is a wireframe walking through the process of contributing thoughts regarding the exhibit: 
+
+1) The user texts the appropriate muesum code to start the process in contributing to conversation: 
 ![phone](/img/Phone1.png)
 
-![phone](/img/Phone2.png)
-
+2) The user receives the following text as a response
 ![phone](/img/Phone3.png)
 
+3) The user selects which exhibit to contribute to by texting the appropriate number. 
 ![phone](/img/Phone4.png)
 
+4) The user receives the following text as a response 
 ![phone](/img/Phone5.png)
 
+5) The user types up comment and sends it in
 ![phone](/img/Phone6.png)
 
+6) The user gets the following response and now completed the task. 
 ![phone](/img/Phone7.png)
 
 ## Decisions and changes made in implementing the digital mockup:
 * We could not implement a "sliding window" feature, which we had simulated in our digital mockup. Instead, one window moves to the left so another can appear beside it in a simple pop-up way.
 * We changed the color scheme of our mock-up, seeing that on-screen, the original colors we had were rather unpleasing.
-* We also included more colored areas, realizing that the plainness of the paper prototype showed a need for more color contrast in the digitized version
+* We also included more colored areas, realizing that the plainness of the paper prototype showed a need for more color contrast in the digitized version.
+* We changed the wording of the text responses when users text in their comments.

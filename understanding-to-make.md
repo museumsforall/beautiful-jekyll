@@ -35,9 +35,9 @@ Our usability tests demonstrate that
 
 
 
-
 ### Digital Mockup
 
+Here is an overview of our digital mockup. 
 
 
 ### Discussion 

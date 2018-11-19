@@ -1,5 +1,5 @@
-
-## Museums For All
+## Understanding to Make 
+### Museums For All
 
 ### Project Members
 * Elvira Alonso: designer, researcher

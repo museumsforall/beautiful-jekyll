@@ -18,12 +18,12 @@ Rather than relying on discussion to solve the problems we are designing for, we
 
 ### Initial Paper Prototype 
 
-For our initial paper prototype, 
+For our initial [paper prototype](https://museumsforall.github.io/2018-10-29-Paper-Prototype/), 
 
 
 ### Testing Process
 
-In order to test our paper prototype, we first conducted heuristic evaluations along with a walk-through of our prototype. We then proceeded to conducting three usability tests with people of various backgrounds. 
+In order to test our paper prototype, we first conducted [heuristic evaluations](https://museumsforall.github.io/2018-11-01-Heuristic-Evaluation/) along with a walk-through of our prototype. We then proceeded to conducting three [usability tests](https://museumsforall.github.io/2018-11-09-usability-testing-review/) with people of various backgrounds. 
 
 
 ### Testing Results 
@@ -37,7 +37,7 @@ Our usability tests demonstrate that
 
 ### Digital Mockup
 
-Here is an overview of our digital mockup. 
+Here is an overview of our [digital mockup](https://museumsforall.github.io/2018-11-12-digital-mockup/). 
 
 
 ### Discussion 

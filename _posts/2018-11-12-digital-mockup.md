@@ -7,12 +7,13 @@ title: Digital Mockup
 For our museum installation, we used Balsamiq to create our digital mockup. The following shows a walk through of [two important tasks](https://museumsforall.github.io/2018-10-29-Paper-Prototype/) of our design: 
 * viewing discussions happening at WCMA about particular artworks/ exhibits 
 * contributing to such discussions  
+We envision our product as a large touchscreen display in WCMA. Visitors would encoutner the display as they enter an exhibit or as they exit it, either priming their experience in the exhibit or learning more after an initial look.
 
 This is a picture of an overview of all the wireframes created for our project: 
 
 ![overview](/img/wireframeoverview.png)
 
-## Task 1 
+## Task 1: Learn more about an exhibit and the discussion going on around it
 
 In order to view discussions about particular exhibits happening at WCMA, in this case the 'Dance We Must' exhibit, we start at the 'homepage' of our installation. On this page we can see the different exhibits currently on display at WCMA. The directions state to click on an exhibit to learn more about it. In this case the user will click the 'Dance We Must' exhibit. If the user is having trouble they can click on the question mark on the top right corner which takes them to the 'About Muse' page. 
 ![home](/img/home.png)
@@ -26,7 +27,7 @@ The user is taken to the 'Cultural Appropriation' page where they can read addit
 Here, the user can scroll to read the 'Discussion Highlights.' A back arrow and home button are visible for users to return to previous stages. 
 ![discussion](/img/discussion.png)
 
-## Task 2 
+## Task 2: Contribute your thoughts to the discussion
 
 Task two requires users to contribute to ongoing discussion happening at WCMA about particular artworks/exhibits. After completing the first task, the user can text his/her comments by using their phone. Here is a wireframe walking through the process of contributing thoughts regarding the exhibit: 
 

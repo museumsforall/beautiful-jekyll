@@ -26,6 +26,7 @@ navbar-links:
   About: "aboutme"
   Project Proposal: "project-proposal"
   User Experience Research Overview: "uxoverview"
+  Understanding to Make: "understanding-to-make" 
   Authors:
     - Jamie Kasulis: "http://jamiekasulis.github.io"
     - Elvira Alonso: "http://elvira-alonso.github.io"

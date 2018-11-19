@@ -28,6 +28,9 @@ Once the user has successfully selected an exhibit, they will be taken to the 'D
 The user is taken to the 'Cultural Appropriation' page where they can read additional context. The 'View Discussion' button is at the left of this. If at any point the user does not know what to do next, they can simply click the question icon which takes them to the appropriate pop-up window. 
 ![Additional Context](/img/mockup_final/additional_context.JPG)
 
+The user can also choose to read materials written for individual pieces in the exhibit, as shown below.
+![Works in Exhibit](/img/mockup_final/additional_context_expanded.JPG)
+
 Here, the user can scroll to read the 'Discussion Highlights.' A back arrow and home button are visible for users to return to previous stages. 
 ![Discussion](/img/mockup_final/context_and_discussion.JPG)
 

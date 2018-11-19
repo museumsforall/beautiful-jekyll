@@ -18,7 +18,9 @@ This is a picture of an overview of all the wireframes created for our project:
 In order to view discussions about particular exhibits happening at WCMA, in this case the 'Dance We Must' exhibit, we start at the 'homepage' of our installation. On this page we can see the different exhibits currently on display at WCMA. The directions state to click on an exhibit to learn more about it. In this case the user will click the 'Dance We Must' exhibit. If the user is having trouble they can click on the question mark on the top right corner which takes them to the 'About Muse' page. 
 ![home](/img/home.png
 Inalid into each of the buttons are low-opacity photos of pieces in each of the exhibits. In place of these, our mockup sourced art from the following places:
-* For the "Dance We Must" exhibit: ![Silhouette Dancing Ballet Jumping Fitness Sports](https://www.maxpixel.net/Silhouette-Dancing-Ballet-Jumping-Fitness-Sports-3280313) from MaxPixel
+* For the "Dance We Must" button: ![Silhouette Dancing Ballet Jumping Fitness Sports](https://www.maxpixel.net/Silhouette-Dancing-Ballet-Jumping-Fitness-Sports-3280313) from MaxPixel
+* For the "Serene Surrealism" button: ![Optical Illusion](https://pixabay.com/en/optical-illusion-black-pattern-153444/) by OpenClipart-Vectors on Pixabay
+* For the "Delirious Matter" button: ![Archway](https://pixabay.com/en/arch-stone-stone-wall-old-wall-2705238/) by Momentmal on Pixabay
 
 Once the user has successfully selected an exhibit, they will be taken to the 'Dance We Must' exhibit page. This page has a word cloud and additional context the user can scroll through. We will have the user select 'Cultural Appropriation' for this task. 
 ![exhibit](/img/exhibit.png) 

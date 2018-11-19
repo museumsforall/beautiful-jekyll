@@ -7,7 +7,7 @@
 * Jamie Kasulis: designer, researcher
 
 ### Problem and Solution Overview
-Initially, we believed that a discussion forum was the best design for making museums accessible to people of color. Given the nature of this design, we assumed people would have the tools necessary to voice their opinions about artworks and exhibits. However, after further discussion with Iris about our initial project design, we decided to make our design more interactive. Instead of opting for an ordinary museum installation that serves as a discussion forum, we decided for an interactive smartboard. 
+Initially, we believed that a discussion forum was the best design for making museums accessible to people of color by maximizing visitor participation and usability. Given the nature of this design, we assumed people would have the tools necessary to voice their opinions about artworks and exhibits. However, after further discussion with Iris about our initial project design, we decided to make our design more interactive. Instead of opting for an ordinary museum installation that serves as a discussion forum, we decided for an interactive smartboard. 
 
 We believe that this change will result in a more innovative and useful way of making conversations and exhibitions more accessible to museum visitors. Users will be able to learn more about specific exhibits and based on which one is chosen, the user has the option of choosing a word from a word cloud that is associated to the exhibit. 
 

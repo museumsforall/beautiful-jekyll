@@ -26,7 +26,14 @@ In order to test our paper prototype, we first conducted [heuristic evaluations]
 
 ### Testing Results 
 
-Our usability tests demonstrate that 
+For our heuristic evaluations, the heART group pointed out certain consistency issues in our paper prototype. They also noted that better instructions were needed. As a result, we added ‘?’ buttons and “to contribute to the discussion…” to every screen. As for the cognitive walkthroughs, we noticed that our word choice and not so visible scrollbars may lead to confusion amongst users. This was confirmed during our three usability tests. 
+
+For our first usability test we realized that key revisions need to be made. Our participant was confused about the layout of some of our pages and not satisfied with the response messages. These changes are outlined in our [usability testing check-in](https://museumsforall.github.io/2018-11-04-usability_checkin/). 
+
+As for our second usability test, word choice was a source of confusion. From our heuristic evaluations we changed ‘word’ to ‘topic’ but it seemed as though this was still not clear. Moreover, our participant was interested in replying to a specific comment which we did not design for. 
+
+Our third participant was confused about our logo and layout which was also a theme in our first usability test. We decided to change the layout to make our discussion and context pages easier to use. These changes are further discussed in our [usability testing review](https://museumsforall.github.io/2018-11-09-usability-testing-review/). 
+
 
 
 ### Final Paper Prototype 

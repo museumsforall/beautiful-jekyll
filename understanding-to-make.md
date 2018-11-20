@@ -31,12 +31,19 @@ Our usability tests demonstrate that
 
 ### Final Paper Prototype 
 ![Final Paper Prototype](/img/overview_revised.JPG)
+You can read more about our final paper prototype [here](https://museumsforall.github.io/2018-11-09-usability-testing-review/).
 
+This is our final paper prototype. You can see that we made more of an effort to convey a cohesive color scheme, and we also standardized the placement of items, capitalization of letters, and font use for consistency purposes. We also provided much more detailed instructions for every aspect of our design, including pop-up windows triggered by buttons that provided tutorials on using the installation, an explanation of our project, and information on where we source our content from. We also tweaked how we displayed the Additional Context panel and Discussion Highlights panel-- still alongside each other, but with the Discussion requiring an additional button press so as to place the Additional Context (which we deemed more immediately important to a user's experience) center-stage. This allows the user to accomplish task 1 (learn more about an exhibit and the discussion going on around it) before being confronted with the discussion. Task 2 is accomplished in the same way (by texting in your response), but with more detailed instructions.
 
 
 ### Digital Mockup
 ![Final Digital Mockup](/img/mockup_final/overview.jpg)
 Here is an overview of our [digital mockup](https://museumsforall.github.io/2018-11-12-digital-mockup/). 
 
+Our digital mockup retained all of the layout ideas and general themes of our final paper prototype, but here, we had to be more intentional about color. Per Iris's feedback, we realized we had used a jarringly electric purple color for our interface, so we toned this down with a muted blue that was still aesthetically pleasing but not so harsh on the eyes. This was not something we even thought of when making our paper prototype. We also felt the constraints of working digitally when we could not implement a sliding animation in Balsamiq that we could easily simulate during our paper usability tests, so we could not fully convey how we wanted one screen of our design to move. A third change we made was to include more pictures. We changed the buttons on the home screen to each have some graphic inside of them, and we also decided to provide more information on each individual piece in an exhibit-- so we also have a grid of images to display. We hope that this makes the app both less redundant by breaking up the text and more informative by providing info on each artwork.
+
+Task 1, learning more about an exhibit and the discussion going on around it, is accomplished in much the same way as the paper prototype, only now, there is an additional button click required to get to the discussion. This button is hard to miss, and if you are already at the Additional Context page, you will be led to the discussion. We also, as I mentioned above, included information on each individual exhibit, so we are hoping that task 1 has more content driving it now.
+
+Task 2, contributing to the discussion, is the exact same as it was before. There is a message at the bottom of every screen, in the same spot, telling the user how to text in their thoughts, how their thoughts will be considered, and where they will go. We also included a pop-up window triggered by clicking a question mark button to give detailed instructions on how to do this. 
 
 ### Discussion 

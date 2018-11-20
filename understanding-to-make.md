@@ -23,6 +23,8 @@ For our initial [paper prototype](https://museumsforall.github.io/2018-10-29-Pap
 
 In order to test our paper prototype, we first conducted [heuristic evaluations](https://museumsforall.github.io/2018-11-01-Heuristic-Evaluation/) along with a walk-through of our prototype. We then proceeded to conducting three [usability tests](https://museumsforall.github.io/2018-11-09-usability-testing-review/) with people of various backgrounds. 
 
+For each of our usability tests, we introduced our project with some background about the HCI course we are currently in and a vague description of the goal/purpose of our project. We emphasized the importance of thinking aloud and oversharing opinions and thoughts during the test. We then read a simple background story to the particpant. Then we asked our particpant to complete the first task followed by the second task. Our roles (facilitator, observer) changed for each usability test. 
+
 
 ### Testing Results 
 

@@ -47,3 +47,37 @@ Task 1, learning more about an exhibit and the discussion going on around it, is
 Task 2, contributing to the discussion, is the exact same as it was before. There is a message at the bottom of every screen, in the same spot, telling the user how to text in their thoughts, how their thoughts will be considered, and where they will go. We also included a pop-up window triggered by clicking a question mark button to give detailed instructions on how to do this. 
 
 ### Discussion 
+
+This process of iterative design taught us a lot about how to create both a useful and unique project that will help make museums more accessible. Through this process and after receiving constructive criticism and advice we had to iterate through a few designs before deciding on a final design. We decided to change our design after realizing that a discussion board is not particularly novel and is not able to support the [goals](https://museumsforall.github.io/2018-10-22-Project-Design-Review/) we identified in our research. This especially became apparent after conducting a Project Design Review. As a result, we created an interactive smartboard as our final design as effectively allows users to carry out identified [tasks](https://museumsforall.github.io/2018-10-15-project-task-review/).
+
+Our final design did not drastically change the tasks as a result of our usability tests. Users are able to complete the following tasks: 1) share and communicate thoughts via text message and 2) read content/discussion and other comments on the smartboard. 
+
+If more time was permitted, we could definitely have used more iterations upon our design as we were not able to conduct an extensive Project Design Review and receive additional feedback from classmates after presenting our ideas. However, I believe we made sufficient improvements to our design and this goes to show how iterations upon designs are essential. 
+
+### Appendix 
+
+[Contextual Inquiry (First one)](https://museumsforall.github.io/2018-09-27-contextual-inquiry/)
+
+[Contextual Inquiry Check In](https://museumsforall.github.io/2018-10-01-ci-checkin/)
+
+[Digital Mockup](https://museumsforall.github.io/2018-11-12-digital-mockup/)
+
+[Contextual Inquiry Review](https://museumsforall.github.io/2018-10-04-contextual-inquiry-review/)
+
+[Heuristic Evaluations](https://museumsforall.github.io/2018-11-01-Heuristic-Evaluation/)
+
+[Paper Prototype](https://museumsforall.github.io/2018-10-29-Paper-Prototype/)
+
+[Project Design Check In](https://museumsforall.github.io/2018-10-18-project-design-checkin/)
+
+[Project Design Review (Initial Design)](https://museumsforall.github.io/2018-10-22-Project-Design-Review/)
+
+[Project Design Revision (Final Design)](https://museumsforall.github.io/2018-11-01-Design-Review-Revision/)
+
+[Project Task Review](https://museumsforall.github.io/2018-10-15-project-task-review/)
+
+[Team Contract](https://museumsforall.github.io/2018-09-27-team-contract/)
+
+[Usability Testing Check In](https://museumsforall.github.io/2018-11-04-usability_checkin/) 
+
+[Usability Testing Review](https://museumsforall.github.io/2018-11-09-usability-testing-review/)

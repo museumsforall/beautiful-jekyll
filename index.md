@@ -4,7 +4,7 @@ title: Museums for All
 use-site-title: true 
 ---
 
-# ->MUSEUMS FOR ALL<- 
+# Museums For All
 
 ### The Problem
 

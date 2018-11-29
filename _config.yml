@@ -23,15 +23,16 @@ description: Designing museums for accessibility
 
 # List of links in the navigation bar
 navbar-links: 
-  Design Overview: 
+  Design: 
     - Project Proposal: "project-proposal"
     - User Experience Research Overview: "uxoverview"
     - Understanding to Make: "understanding-to-make"  
-  Appendix: "deliverables-archive"
   Team:
     - Jamie Kasulis: "http://jamiekasulis.github.io"
     - Elvira Alonso: "http://elvira-alonso.github.io"
     - Dana Chung: "http://danachung3.github.io"
+  Appendix: "deliverables-archive"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar 

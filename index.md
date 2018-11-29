@@ -5,6 +5,7 @@ use-site-title: true
 ---
 
 # Museums For All
+->THIS TEXT IS IN THE CENTER!<-
 ![logo](/img/linkedin_banner_image_2.png)
 
 ### The Problem

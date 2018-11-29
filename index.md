@@ -4,7 +4,7 @@ title: Museums for All
 use-site-title: true
 ---
 
--># Museums For All<-
+# Museums For All
 Replace this with the banner
 
 ### The Problem

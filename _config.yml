@@ -22,13 +22,13 @@ description: Designing museums for accessibility
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  About: "aboutme"
-  Reports: 
+navbar-links: 
+  Design Overview: 
     - Project Proposal: "project-proposal"
     - User Experience Research Overview: "uxoverview"
     - Understanding to Make: "understanding-to-make"  
-  Authors:
+  Appendix: "deliverables-archive"
+  Team:
     - Jamie Kasulis: "http://jamiekasulis.github.io"
     - Elvira Alonso: "http://elvira-alonso.github.io"
     - Dana Chung: "http://danachung3.github.io"

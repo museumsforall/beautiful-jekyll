@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: default  
 bigimg: /img/facebook_cover_photo_2.png
 ---
 

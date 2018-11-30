@@ -24,4 +24,8 @@ This is where our design comes in. We propose a platform, to be available for us
 Providing educational materials on the issues at hand and promoting discussion are essential facets of our solution.
 ![Context and Discussion](/img/mockup_final/context_and_discussion.JPG)
 
+### Our Initial Video Prototype 
+
+<iframe width="420" height="315" src="https://youtu.be/aaLs1GvnKQ4" frameborder="0" allowfullscreen></iframe>
+
 ### The Team

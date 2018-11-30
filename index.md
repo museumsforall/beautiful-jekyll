@@ -6,7 +6,7 @@ use-site-title: true
 # Museums For All
 
 <p align="center">
-  <img width="460" height="300" src= "\img\twitter_header_photo_2.png">
+  <img width="100%" src= "\img\twitter_header_photo_2.png">
 </p>
 
 ### The Problem

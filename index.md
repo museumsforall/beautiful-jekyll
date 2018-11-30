@@ -4,6 +4,13 @@ title: Museums for All
 use-site-title: true
 ---
 
+<p align="center">
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+
+
 # Museums For All
 ![logo](/img/linkedin_banner_image_2.png) 
 

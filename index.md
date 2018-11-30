@@ -1,6 +1,8 @@
 ---
 layout: page 
-title: " "           
+title: ""           
+subtitle: ""
+use-cite-title: true 
 bigimg: /img/cover_banner.png
 ---
 

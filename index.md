@@ -31,5 +31,7 @@ Providing educational materials on the issues at hand and promoting discussion a
 
 ### The Team
 [Dana Chung](https://danachung3.github.io/) 
+
 [Elvira Alonso](https://elvira-alonso.github.io/)
+
 [Jamie Kasulis](https://jamiekasulis.github.io/) 

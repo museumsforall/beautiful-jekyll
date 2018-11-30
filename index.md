@@ -5,6 +5,7 @@ use-cite-title: true
 bigimg: /img/cover_banner.png
 ---
 
+
 ## Museums for All 
 
 ### The Problem

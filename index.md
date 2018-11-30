@@ -2,7 +2,6 @@
 layout: default
 title: Museums for All 
 subtitle: Overview 
-use-site-title: true
 ---
 
 # Museums For All

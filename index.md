@@ -3,16 +3,6 @@ layout: default
 title: Museums for All 
 use-site-title: true
 ---
-
-<p align="center">
-  Museums for All
-  <br><br>
-  <img src= "/img/linkedin_banner_image_2.png">
-</p>
-
-
-
-
 # Museums For All
 
 ### The Problem
@@ -34,8 +24,9 @@ Providing educational materials on the issues at hand and promoting discussion a
 ![Context and Discussion](/img/mockup_final/context_and_discussion.JPG)
 
 ### Our Initial Video Prototype 
-
-{% include youtube_embed.html id="aaLs1GvnKQ4" %}
+<p align="center">
+  {% include youtube_embed.html id="aaLs1GvnKQ4" %}
+</p>
 
 ### The Team
 [Dana Chung](https://danachung3.github.io/) 

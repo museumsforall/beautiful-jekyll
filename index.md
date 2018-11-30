@@ -4,7 +4,7 @@ title: Museums for All
 use-site-title: true
 ---
 
--> # Museums For All <-
+# Museums For All
 ![logo](/img/linkedin_banner_image_2.png) 
 
 ### The Problem

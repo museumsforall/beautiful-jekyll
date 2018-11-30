@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page 
 title: Museums for All 
 subtitle: Overview 
 ---

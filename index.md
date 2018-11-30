@@ -26,9 +26,7 @@ Providing educational materials on the issues at hand and promoting discussion a
 
 ### Our Initial Video Prototype 
 
-<iframe width="420" height="315" src="https://youtu.be/aaLs1GvnKQ4" frameborder="0" allowfullscreen></iframe>
-
 {% include youtube_embed.html id="aaLs1GvnKQ4" %}
 
-
 ### The Team
+[Dana Chung](https://danachung3.github.io/) 

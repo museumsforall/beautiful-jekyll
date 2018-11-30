@@ -2,7 +2,7 @@
 layout: page 
 title: ""
 use-cite-title: true 
-bigimg: /img/cover-banner.png
+bigimg: /img/cover_banner.png
 ---
 
 ## Museums for All 

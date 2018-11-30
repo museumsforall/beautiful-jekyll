@@ -3,9 +3,6 @@ layout: page
 title: Museums for All 
 subtitle: Overview 
 ---
-
-# Museums For All
-
 <p align="center">
   <img src="\img\facebook_cover_photo_2.png">
 </p>

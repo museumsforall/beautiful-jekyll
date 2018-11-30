@@ -5,7 +5,7 @@ use-site-title: true
 ---
 
 <p align="center">
-  <b>Museums for All</b><br>
+  <b>#Museums for All</b><br>
   <br><br>
   <img src= "/img/linkedin_banner_image_2.png">
 </p>

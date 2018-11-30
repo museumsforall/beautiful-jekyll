@@ -2,7 +2,10 @@
 layout: page 
 title: Museums for All 
 subtitle: Overview 
+use-site-title: true
+bigimg: /img/facebook_cover_photo_2.png
 ---
+
 <p align="center">
   <img src="\img\facebook_cover_photo_2.png">
 </p>

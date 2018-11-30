@@ -24,9 +24,8 @@ Providing educational materials on the issues at hand and promoting discussion a
 ![Context and Discussion](/img/mockup_final/context_and_discussion.JPG)
 
 ### Our Initial Video Prototype 
-<p align="center">
-  {% include youtube_embed.html id="aaLs1GvnKQ4" %}
-</p>
+
+{% include youtube_embed.html id="aaLs1GvnKQ4" %}
 
 ### The Team
 [Dana Chung](https://danachung3.github.io/) 

@@ -1,7 +1,7 @@
 ---
 layout: page 
-title:  
-use-site-title: false 
+title: 
+subtitle: "museums for all" 
 bigimg: /img/facebook_cover_photo_2.png
 ---
 

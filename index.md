@@ -1,10 +1,10 @@
 ---
 layout: page 
-title:           .
-bigimg: /img/facebook_cover_photo_2.png
+title: " "           
+bigimg: /img/banner.png
 ---
 
-## Museums for All 
+# Museums for All 
 
 ### The Problem
 The [literature](https://news.artnet.com/art-world/mellon-foundation-museum-diversity-study-322299) shows that museums are often inaccessible to people of color. Besides the fact that people of color (PoC) constitute such a small percentage of museum staff across the country, we observed directly through our research that the way subject matter relating to PoC issues is handled often leaves PoC feeling uncomfortable, discouraged, or angry. In our community, there is ostensibly a lack of conversation around the local museum's accountability regarding how it handles these issues. However, our team learned that these conversations are actually happening. One challenge is getting the word out, and another is making sure it can have an immediate positive impact on people's experiences in the museum.

@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: " " 
+title:           .
 bigimg: /img/facebook_cover_photo_2.png
 ---
 

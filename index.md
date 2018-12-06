@@ -1,7 +1,6 @@
 ---
 layout: page 
-title: ""
-subtitle: ""
+title: " "
 bigimg: /img/cover_banner.png
 ---
 

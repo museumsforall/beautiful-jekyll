@@ -21,8 +21,14 @@ The [literature](https://news.artnet.com/art-world/mellon-foundation-museum-dive
 
 We wanted to design something that would help make museums more accessible for people of color, something that visitors could use *while* they were in the museum so that they wouldn't leave feeling negatively. We began researching the problem by holding a series of research sessions with Williams College students and staffmembers from the Williams College Museum of Art. We learned more about the problem, what's at stake, and how the issues we're observing in our local community are reminiscent of a national phenomenon of museum exclusivity.
 
-### Changing the Museum Experience
-#### Without Museums For All...
+<center>
+	<H1> Changing the Museum Experience  </H1>
+</center> 
+
+<center>
+	<H2> Without Museums For All...  </H2>
+</center> 
+
 Without Museums for All, there may be no outlet for someone to voice their criticisms of the museum or an exhibit. Without having that platform, we observed our visitors leaving the museum feeling ambivalent at best, but probably angry with the way sensitive issues were handled. We want to intervene on their experience so that their concerns can be addressed and they can find validation in joining an ongoing conversation.
 
 #### *With* Museums For All...

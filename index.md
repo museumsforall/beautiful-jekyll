@@ -11,7 +11,7 @@ bigimg: /img/cover_banner.png
 
 <center>
 	<H2> The Problem </H2>
-	<p> The <a href= https://news.artnet.com/art-world/mellon-foundation-museum-diversity-study-322299>literature</a> shows that museums are often inaccessible to people of color. Besides the fact that people of color (PoC) constitute such a small percentage of museum staff across the country, we observed directly through our research that the way subject matter relating to PoC issues is handled often leaves PoC feeling uncomfortable, discouraged, or angry. In our community, there is ostensibly a lack of conversation around the local museum's accountability regarding how it handles these issues. However, our team learned that these conversations are actually happening. One challenge is getting the word out, and another is making sure it can have an immediate positive impact on people's experiences in the museum.</p> 
+	<p> The <a href="https://news.artnet.com/art-world/mellon-foundation-museum-diversity-study-322299">literature</a> shows that museums are often inaccessible to people of color. Besides the fact that people of color (PoC) constitute such a small percentage of museum staff across the country, we observed directly through our research that the way subject matter relating to PoC issues is handled often leaves PoC feeling uncomfortable, discouraged, or angry. In our community, there is ostensibly a lack of conversation around the local museum's accountability regarding how it handles these issues. However, our team learned that these conversations are actually happening. One challenge is getting the word out, and another is making sure it can have an immediate positive impact on people's experiences in the museum.</p> 
 </center>
 
 <center>
@@ -60,9 +60,9 @@ bigimg: /img/cover_banner.png
 
 <center> 
 	<p> 
-		<a href= https://danachung3.github.io/>Dana Chung</a>
-		<br> <a href = https://jamiekasulis.github.io/>Jamie Kasulis</a> 
-		<br> <a href = https://elvira-alonso.github.io/>Elvira Alonso</a> 
+		<a href="https://danachung3.github.io/">Dana Chung</a>: Designer, Researcher 
+		<br> <a href="https://jamiekasulis.github.io/">Jamie Kasulis</a>: Designer, Researcher 
+		<br> <a href="https://elvira-alonso.github.io/">Elvira Alonso</a>: Designer, Researcher 
 	</p> 
 </center> 
 

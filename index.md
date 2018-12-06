@@ -5,14 +5,20 @@ bigimg: /img/cover_banner.png
 ---
 
 <center>
-	<H1> Museums fo All </H1>
+	<H1> Museums for All </H1>
 </center> 
 
 
-### The Problem
+<center>
+	<H1> The Problem </H1>
+</center> 
+
 The [literature](https://news.artnet.com/art-world/mellon-foundation-museum-diversity-study-322299) shows that museums are often inaccessible to people of color. Besides the fact that people of color (PoC) constitute such a small percentage of museum staff across the country, we observed directly through our research that the way subject matter relating to PoC issues is handled often leaves PoC feeling uncomfortable, discouraged, or angry. In our community, there is ostensibly a lack of conversation around the local museum's accountability regarding how it handles these issues. However, our team learned that these conversations are actually happening. One challenge is getting the word out, and another is making sure it can have an immediate positive impact on people's experiences in the museum.
 
-### Designing a Solution
+<center>
+	<H1> Designing a Solution </H1>
+</center> 
+
 We wanted to design something that would help make museums more accessible for people of color, something that visitors could use *while* they were in the museum so that they wouldn't leave feeling negatively. We began researching the problem by holding a series of research sessions with Williams College students and staffmembers from the Williams College Museum of Art. We learned more about the problem, what's at stake, and how the issues we're observing in our local community are reminiscent of a national phenomenon of museum exclusivity.
 
 ### Changing the Museum Experience
@@ -27,13 +33,18 @@ This is where our design comes in. We propose a platform, to be available for us
 Providing educational materials on the issues at hand and promoting discussion are essential facets of our solution.
 ![Context and Discussion](/img/mockup_final/context_and_discussion.JPG)
 
-### Our Initial Video Prototype 
+<center>
+	<H1> Our Initial Video Prototype  </H1>
+</center> 
 
 <p align="center">
 {% include youtube_embed.html id="aaLs1GvnKQ4" %}
 </p>
 
-### The Team
+<center>
+	<H1> The Team </H1>
+</center> 
+
 ![Team](/img/teamx.jpeg)
 
 [Elvira Alonso](https://elvira-alonso.github.io/)          

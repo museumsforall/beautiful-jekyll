@@ -61,8 +61,8 @@ bigimg: /img/cover_banner.png
 <center> 
 	<p> 
 		<a href= https://danachung3.github.io/>Dana Chung</a>
-		<a href = https://jamiekasulis.github.io/>Jamie Kasulis</a> 
-		<a href = https://elvira-alonso.github.io/>Elvira Alonso</a> 
+		<br> <a href = https://jamiekasulis.github.io/>Jamie Kasulis</a> 
+		<br> <a href = https://elvira-alonso.github.io/>Elvira Alonso</a> 
 	</p> 
 </center> 
 

@@ -31,7 +31,7 @@ Providing educational materials on the issues at hand and promoting discussion a
 </p>
 
 ### The Team
-![Team](/img/teamx.JPEG)
+![Team](/img/teamx.jpeg)
 
 [Dana Chung](https://danachung3.github.io/) 
 

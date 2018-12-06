@@ -10,6 +10,7 @@ bigimg: /img/cover_banner.png
 		<p>
 		The literature 
 	</p>
+<center> 
  
 ## Museums for All 
 

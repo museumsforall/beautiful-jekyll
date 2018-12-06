@@ -4,6 +4,13 @@ title: " "
 bigimg: /img/cover_banner.png
 ---
 
+
+<center>
+	<H1> The Problem </H1>
+		<p>
+		The literature 
+	</p>
+ 
 ## Museums for All 
 
 ### The Problem

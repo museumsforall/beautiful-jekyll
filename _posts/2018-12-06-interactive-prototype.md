@@ -1,1 +1,1 @@
-you can [get the PDF](/includes/interactiveprototype.pdf) directly.
+you can [get the PDF](/_includes/interactiveprototype.pdf) directly.

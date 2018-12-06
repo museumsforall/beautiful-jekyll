@@ -59,10 +59,10 @@ bigimg: /img/cover_banner.png
 ![Team](/img/teamx.jpeg)
 
 <center> 
-	<p> 
-		<a href="https://danachung3.github.io/">Dana Chung</a>: Designer, Researcher 
+	<p>  
+		<a href="https://elvira-alonso.github.io/">Elvira Alonso</a>: Designer, Researcher 
 		<br> <a href="https://jamiekasulis.github.io/">Jamie Kasulis</a>: Designer, Researcher 
-		<br> <a href="https://elvira-alonso.github.io/">Elvira Alonso</a>: Designer, Researcher 
+		<br> <a href="https://danachung3.github.io/">Dana Chung</a>: Designer, Researcher
 	</p> 
 </center> 
 

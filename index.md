@@ -28,7 +28,7 @@ The [literature](https://news.artnet.com/art-world/mellon-foundation-museum-dive
 
 <center> 
 	<H3> With Museums For All...  </H3> 
-	<p> This is where our design comes in. We propose a platform, to be available for use in or near the exhibits, that provides educational material on the social concepts relevant to an exhibit as well as a discussion platform. This museum installation will simultaneously inform museum-goers about topics such as *cultural appropriation*, for instance. This will simultaneously educate visitors and show those who are concerned about the exhibit's subject matter that the issues *are* being addressed, and that other people are thinking about them, too. </p> 	
+	<p> This is where our design comes in. We propose a platform, to be available for use in or near the exhibits, that provides educational material on the social concepts relevant to an exhibit as well as a discussion platform. This museum installation will simultaneously inform museum-goers about topics such as <i>cultural appropriation</i>, for instance. This will simultaneously educate visitors and show those who are concerned about the exhibit's subject matter that the issues <i>are</i> being addressed, and that other people are thinking about them, too. </p> 	
 </center>
 
 

@@ -58,8 +58,11 @@ bigimg: /img/cover_banner.png
 
 ![Team](/img/teamx.jpeg)
 
-[Elvira Alonso](https://elvira-alonso.github.io/)          
-[Jamie Kasulis](https://jamiekasulis.github.io/)           
-[Dana Chung](https://danachung3.github.io/) 
+<center> 
+	<p> <a href= https://danachung3.github.io/>Dana Chung</a>
+	<a href = https://jamiekasulis.github.io/>Jamie Kasulis</a> 
+	<a href = https://elvira-alonso.github.io/>Elvira Alonso</a> 
+	</p> 
+</center> 
 
  

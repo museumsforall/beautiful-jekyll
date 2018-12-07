@@ -60,8 +60,10 @@ bigimg: /img/cover_banner.png
 	<H2> The Team </H2>
 </center> 
 
-
-![Team](/img/teamx.jpeg)
+<p align="center">
+  <img src="/img/teamx.jpeg">
+	<br> From left to right: Elvira '20, Jamie '20, Dana '21
+</p>
 
 <center> 
 	<p>  

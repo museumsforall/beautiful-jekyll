@@ -21,7 +21,7 @@ bigimg: /img/cover_banner.png
 
 <center>
 	<H2> Designing a Solution </H2>
-	<p> We wanted to design something that would help make museums more accessible for people of color, something that visitors could use <i>while</i> they were in the museum so that they wouldn't leave feeling negatively. We began researching the problem by holding a series of research sessions with Williams College students and staffmembers from the Williams College Museum of Art. We learned more about the problem, what's at stake, and how the issues we're observing in our local community are reminiscent of a national phenomenon of museum exclusivity. </p> 
+	<p> We wanted to design something that would help make museums more accessible for people of color, something that visitors could use <i>while</i> they were in the museum so that they wouldn't leave feeling negatively. We began researching the problem by holding a series of research sessions with Williams College students and staff members from the Williams College Museum of Art. We learned more about the problem, what's at stake, and how the issues we're observing in our local community are reminiscent of a national phenomenon of museum exclusivity. </p> 
 </center>
 	
 <center> 

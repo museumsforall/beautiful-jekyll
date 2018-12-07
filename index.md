@@ -47,7 +47,7 @@ bigimg: /img/cover_banner.png
 
 
 <p align="center">
-{% include youtube_embed.html id="6oLFbVxaimc" %}
+{% include youtube_embed.html id="rsjEDiupSPg" %}
 </p>
 
 

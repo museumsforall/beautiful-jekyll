@@ -16,10 +16,8 @@ bigimg: /img/cover_banner.png
 
 <p align="center">
   <img src="/img/museum.png">
+	<a href="https://wcma.williams.edu/reading-room/">WCMA Discussion - Reading Room</a>
 </p>
-
-![museum](/img/museum.png)
-[WCMA Discussion - Reading Room](https://wcma.williams.edu/reading-room/) 
 
 <center>
 	<H2> Designing a Solution </H2>

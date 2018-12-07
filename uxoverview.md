@@ -1,6 +1,10 @@
-# User Experience Research Overview
-## Museums For All
+---
+layout: page 
+title: User Experience Research 
+subtitle: Overview 
+---
 
+### Museums For All
 
 ### Project Members
 * Elvira Alonso: designer, researcher

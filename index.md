@@ -27,7 +27,7 @@ bigimg: /img/cover_banner.png
 <center> 
 	<H2> Changing the Museum Experience </H2>
 	<H3> Without Museums For All...  </H3>
-	<p> Without Museums for All, there may be no outlet for someone to voice their criticisms of the museum or an exhibit. Without having that platform, we observed our visitors leaving the museum feeling ambivalent at best, but probably angry with the way sensitive issues were handled. We want to intervene on their experience so that their concerns can be addressed and they can find validation in joining an ongoing conversation.</p> 	
+	<p> Without Museums for All, there may be no outlet for someone to voice their criticisms of the museum or an exhibit. Without having that platform, we observed our visitors leaving the museum feeling ambivalent at best, and a few angry with the way sensitive issues were handled. We want to improve their experience in museums so that their concerns can be addressed and they can find validation in joining an ongoing conversation.</p> 	
 </center> 
 
 <center> 

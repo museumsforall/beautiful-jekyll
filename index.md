@@ -42,12 +42,12 @@ bigimg: /img/cover_banner.png
 
 
 <center>
-	<H2> Our Initial Video Prototype  </H2>
+	<H2> Our Video Prototype  </H2>
 </center> 
 
 
 <p align="center">
-{% include youtube_embed.html id="aaLs1GvnKQ4" %}
+{% include youtube_embed.html id="Wooyd0NSIXM" %}
 </p>
 
 

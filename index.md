@@ -11,7 +11,7 @@ bigimg: /img/cover_banner.png
 
 <center>
 	<H2> The Problem </H2>
-	<p> The <a href="https://news.artnet.com/art-world/mellon-foundation-museum-diversity-study-322299">literature</a> shows that museums are often inaccessible to people of color. Besides the fact that people of color (PoC) constitute such a small percentage of museum staff across the country, we observed directly through our research that the way subject matter relating to PoC issues is handled often leaves PoC feeling uncomfortable, discouraged, or angry. There is a lack of conversation about art in regards to PoC that have a postive impact on their experiences in the museum. </p> 
+	<p> The <a href="https://news.artnet.com/art-world/mellon-foundation-museum-diversity-study-322299">literature</a> shows that museums are often inaccessible to people of color. Besides the fact that people of color (PoC) constitute such a small percentage of museum staff across the country, we observed directly through our research that the way subject matter relating to PoC issues is handled often leaves PoC feeling uncomfortable, discouraged, or angry. There is a lack of conversation about art that has a postive impact on PoC experiences in the museum. </p> 
 </center>
 
 <p align="center">

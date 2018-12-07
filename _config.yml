@@ -23,8 +23,8 @@ description: Designing museums for accessibility
 
 # List of links in the navigation bar
 navbar-links: 
-  Design Process: 
-    - Interactive Prototype: "https://balsamiq.cloud/s73f10p/pgqfc5m"
+  Interactive Prototype: "https://balsamiq.cloud/s73f10p/pgqfc5m"
+  Design Process:
     - Project Proposal: "project-proposal"
     - User Experience Research Overview: "uxoverview"
     - Understanding to Make: "understanding-to-make"  

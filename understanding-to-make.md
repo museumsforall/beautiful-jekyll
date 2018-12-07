@@ -1,4 +1,9 @@
-## Understanding to Make 
+---
+layout: page 
+title: User Experience Design
+subtitle: Overview 
+---
+
 ### Museums For All
 
 ### Project Members

@@ -22,7 +22,7 @@ subtitle: Museums for All
 * [Digital Mockup](https://museumsforall.github.io/2018-11-12-digital-mockup/)
 * [User Experience Design Overview](https://museumsforall.github.io/understanding-to-make/)
 * [Initial Video Prototype](https://www.youtube.com/watch?v=aaLs1GvnKQ4&list=UUW7qKGyUV1ltlCtRpoC7bIg&index=2)
-* [Final Video Prototype](https://youtu.be/Wooyd0NSIXM) 
+* [Final Video Prototype](https://youtu.be/6oLFbVxaimc) 
 
 
 

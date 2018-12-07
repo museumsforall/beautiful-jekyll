@@ -62,7 +62,7 @@ bigimg: /img/cover_banner.png
 
 <p align="center">
   <img src="/img/teamx.jpeg">
-	<br> From left to right: Elvira '20, Jamie '20, Dana '21
+	<br> From left to right: Elvira '20, Jamie '20, Dana '19
 </p>
 
 <center> 
